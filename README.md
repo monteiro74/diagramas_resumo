@@ -7,12 +7,13 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 
 
 
-## Conteúdo:
+# Conteúdo:
 
 [1 Definições](#1-Definições) <br>
 [2 DER](#2-DER) <br>
-[3 UML](#3-UML) <br>
-[4 BPMN](#4-BPMN) <br>
+[3 DFD](#2-DFD) <br>
+[4 UML](#3-UML) <br>
+[5 BPMN](#4-BPMN) <br>
 [Referências](#Referências) <br>
 
 
@@ -39,8 +40,12 @@ exemplo de caixa de texto
 # 2 DER
 
 
+
 ---
-# 3 UML
+# 3 DFD
+
+---
+# 4 UML
 
 
 Comparativo:
@@ -52,7 +57,7 @@ Comparativo:
 
 
 ---
-# 4 BPMN
+# 5 BPMN
 
 
 
