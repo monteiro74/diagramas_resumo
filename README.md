@@ -10,10 +10,10 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 # Conteúdo:
 
 [1 Definições](#1-Definições) <br>
-[2 DER](#2-DER) <br>
-[3 DFD](#2-DFD) <br>
-[4 UML](#3-UML) <br>
-[5 BPMN](#4-BPMN) <br>
+[2 DER - Diagrama Entidade Relacionamento](#2-DER) <br>
+[3 DFD - Digrama de Fluxo de Dados](#2-DFD) <br>
+[4 UML - Unified Modeling Language](#3-UML) <br>
+[5 BPMN - Business Process Model and Notation](#4-BPMN) <br>
 [Referências](#Referências) <br>
 
 
