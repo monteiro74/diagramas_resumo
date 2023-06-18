@@ -8,9 +8,9 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 
 [1 Definições](#1-Definições) <br>
 [2 DER - Diagrama Entidade Relacionamento](#2-DER) <br>
-[3 DFD - Diagrama de Fluxo de Dados](#2-DFD) <br>
-[4 UML - Unified Modeling Language](#3-UML) <br>
-[5 BPMN - Business Process Model and Notation](#4-BPMN) <br>
+[3 DFD - Diagrama de Fluxo de Dados](#3-DFD) <br>
+[4 UML - Unified Modeling Language](#4-UML) <br>
+[5 BPMN - Business Process Model and Notation](#5-BPMN) <br>
 [Referências](#Referências) <br>
 
 
