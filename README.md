@@ -120,14 +120,13 @@ flowchart
 
 ### 1 Diagrama de classes
 
+Definição
+
+Exemplos:
+
 ![Exemplo de classe](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png "Exemplo de classe")
 
-Comparativo:
 
-|	          | CPSI          | Contrato de fornecimento|
-| ------------ | ------------- | ----------------------- |
-| Tempo        | 12 meses + 12 | 24 meses + 24           |
-| Valor        | 1,6           | 8                       |
 
 
 ---
