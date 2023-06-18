@@ -14,6 +14,8 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 
 
 <!---
+
+
      comentario 0
      ![Nova lei de licitação](https://raw.githubusercontent.com/monteiro74/lab_inova_serv_pub/main/imagens/nova_lei_licitacao.jpeg)
 
