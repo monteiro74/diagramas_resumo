@@ -30,7 +30,7 @@ exemplo de caixa de texto
 ---
 # 1 Definições
 
-Diagrama é um desenho mostrando um estrutura ou representação esquemática de algo como uma máquina ou sistema, de forma a apresentar simplificadamente sua estrutura ou funcionamento.
+Diagrama é um desenho mostrando um estrutura ou representação esquemática de algo (como uma máquina ou sistema), de forma a apresentar simplificadamente sua estrutura e/ou funcionamento.
 
 
 
