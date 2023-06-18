@@ -65,9 +65,10 @@ graph TD;
     C-->D;
 ```
 
+
 ```mermaid
 flowchart
-    A[Diagrama] --> B(Diagrama de estrutura)
+    A[Diagrama`s] --> B(Diagrama de estrutura)
         B --> B1[Diagrama de classes]
         B --> B2[Diagrama de objetos]
         B --> B3[Diagrama de perfil]
@@ -75,7 +76,7 @@ flowchart
         B --> B5[Diagrama de estruturas compostas]
         B --> B6[Diagrama de implantação]
         B --> B7[Diagrama de pacotes]
-    A[Diagrama] --> C(Diagrama de comportamentos)
+    A[Diagramas] --> C(Diagrama de comportamentos)
         C --> C1[Diagrama de atividades]
         C --> C2[Diagrama de casos de uso]
         C --> C3[Diagrama de máquina de estados]
