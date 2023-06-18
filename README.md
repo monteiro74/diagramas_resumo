@@ -39,11 +39,11 @@ Um diagrama é um desenho mostrando um estrutura ou representação esquemática
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. 
 
-Entidade
+Entidade:
 
-Atributos
+Atributos:
 
-Relacionamentos
+Relacionamentos:
 
 
 
