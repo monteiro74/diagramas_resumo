@@ -99,6 +99,8 @@ B-Diagrama de comportamentos:<br>
 * 14-Diagrama de tempo<br>
 
 
+Tipos de diagramas da UML:
+
 ```mermaid
 flowchart
     A[Diagrama`s] --> B(Diagrama de estrutura)
