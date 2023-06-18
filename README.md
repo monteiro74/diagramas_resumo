@@ -141,6 +141,11 @@ Exemplos:
 http://www.fmc-modeling.org/home
 
 
+```
+Dica: não recomendo FMC !
+```
+
+
 ---
 # 5 BPMN
 
