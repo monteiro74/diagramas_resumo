@@ -65,6 +65,26 @@ graph TD;
     C-->D;
 ```
 
+```mermaid
+flowchart
+    A[Diagrama] --> B(Diagrama de estrutura)
+        B --> B1[Diagrama de classes]
+        B --> B2[Diagrama de objetos]
+        B --> B3[Diagrama de perfil]
+        B --> B4[Diagrama de componentes]
+        B --> B5[Diagrama de estruturas compostas]
+        B --> B6[Diagrama de implantação]
+        B --> B7[Diagrama de pacotes]
+    A[Diagrama] --> C(Diagrama de comportamentos)
+        C --> C1[Diagrama de atividades]
+        C --> C2[Diagrama de casos de uso]
+        C --> C3[Diagrama de máquina de estados]
+        C --> D[Diagrama de interação]
+            D --> D1[Diagrama de sequência]
+            D --> D2[Diagrama de comunicação]
+            D --> D3[Diagrama de visão geral de interação]
+            D --> D4[Diagrama de tempo]
+```
 
 @startuml
 
