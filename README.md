@@ -39,13 +39,17 @@ Um diagrama é um desenho mostrando um estrutura ou representação esquemática
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. 
 
-Entidade:
+## 2.1 Entidade
 
-Atributos:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. 
 
-Relacionamentos:
+## 2.2 Atributos
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. 
 
+## 2.3 Relacionamentos
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. 
 
 
 
@@ -123,7 +127,7 @@ flowchart
 ```
 
 
-### 1 Diagrama de classes
+### 4.1 Diagrama de classes
 
 Definição
 
