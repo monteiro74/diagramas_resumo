@@ -118,7 +118,9 @@ flowchart
 ```
 
 
+### 1 Diagrama de classes
 
+![Exemplo de classe](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png "Exemplo de classe")
 
 Comparativo:
 
