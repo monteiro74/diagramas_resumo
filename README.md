@@ -174,3 +174,29 @@ Comparativo:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. Maecenas vitae neque non orci lobortis condimentum. Vivamus luctus massa velit, eu mattis tortor porttitor vitae. Quisque posuere nibh nec ornare volutpat. Vivamus id arcu suscipit, convallis odio vel, vehicula nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam hendrerit quis diam consectetur pulvinar. Morbi bibendum sagittis sapien, quis efficitur velit iaculis et. Nunc eu arcu et dolor dignissim placerat sed et eros. Vivamus viverra nunc lacus, sit amet porttitor metus tempor et. Proin lectus orci, aliquet et orci nec, rutrum euismod enim. Praesent accumsan nibh quam, eu efficitur mauris convallis dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut blandit, velit vitae lobortis iaculis, mauris urna lacinia ante, quis viverra nisi libero fermentum dolor.
 
 
+---
+# Comentários finais 
+
+
+```
+Critérios para os diagramas entrar nesta lista:
+1. São materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados.
+2. Material foi ou poderá ser usado em sala de aula.
+```
+
+
+```
+As informações aqui contidas podem ser alteradas sem aviso prévio.
+Primeira postagem em: Maio/2023. 
+Última atualização em: 20/julho/2023.
+Se desejar conhecer outras ferramentas para desenvolvimento de software, consulte a página: https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
+```
+Lista de ferramentas: https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
+
+
+```
+Autor: Prof. Dr. Monteiro.
+Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+```
