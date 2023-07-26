@@ -205,3 +205,13 @@ Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ```
+
+Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
+[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
+
+
+Contribuições de:<br>
+<a href="https://github.com/monteiro74/diagramas_resumo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=monteiro74/diagramas_resumo" />
+</a>
+
