@@ -207,11 +207,24 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 ```
 
 Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
-[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
+[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/diagramas_resumo)
 
+Pulse:<br>
+https://github.com/monteiro74/diagramas_resumo/pulse<BR>
 
 Contribuições de:<br>
-<a href="https://github.com/monteiro74/diagramas_resumo/graphs/contributors">
+<a href="https://github.com/monteiro74/diagramas_resumo/contributors">
   <img src="https://contrib.rocks/image?repo=monteiro74/diagramas_resumo" />
 </a>
+
+Histórico de frequência de código:<BR>
+https://github.com/monteiro74/diagramas_resumo/graphs/code-frequency<BR>
+
+Atividade de commits:<BR>
+https://github.com/monteiro74/diagramas_resumo/graphs/commit-activity<BR>
+
+Trafego:<BR>
+https://github.com/monteiro74/diagramas_resumo/graphs/traffic<BR>
+
+[Voltar ao sumário](#sumário)<br>
 
