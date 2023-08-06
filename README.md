@@ -10,7 +10,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 [3 DFD - Diagrama de Fluxo de Dados](#3-DFD) <br>
 [4 UML - Unified Modeling Language](#4-UML) <br>
 [5 BPMN - Business Process Model and Notation](#5-BPMN) <br>
-[5 - Gráfico de gantt](#6-gantt)<br>
+[5 Gráfico de gantt](#6-gantt)<br>
 [Referências](#Referências) <br>
 
 
@@ -58,6 +58,10 @@ Fonte: https://www.dicio.com.br/diagrama/
 
 São componentes de um DER: entidades, atributos e relacionamentos. Os diagramas entidade relacionamento também proporcionam um meio de comunicação. Os diagramas entidades relacionamento são também chamados de diagram ER, Modelo ER. São diagramas estruturais utilizados principalmente para o projeto de um banco de dados (relacional e/ou objeto relacional) 
 
+
+
+
+
 ## 2.1 Entidade
 
 
@@ -68,6 +72,9 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 
 
 
+
+
+
 ## 2.2 Atributos
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. 
@@ -75,6 +82,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id 
 
 
 ![Exemplo de entidades](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png "Exemplo de entidades")
+
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png" alt= “atributos” width="50" height="50">
+
+
 
 ## 2.3 Relacionamentos
 
