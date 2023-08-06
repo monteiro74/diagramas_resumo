@@ -107,6 +107,7 @@ A forma como uma entidade se conecta com outra, ou seja, a forma como uma entida
 Nota: As entidades devem ter atributos semelhantes (e com tipos de dados semelhantes) para que esta ligação possa ser realizada. Sugerimos leituras sobre as chaves estrangeiras (FK).
 
 ```
+Observação:
 Existem diversas formas de notação, uma delas é pela utilização
 de uma figura tipo um diamante no centro da linha que interliga as
 entidades, não recomendamos pois esse tipo de abordagem, mais uma 
@@ -122,7 +123,8 @@ modelo vai sendo especializado e ampliado.
 ---
 # 3 DFD
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. Maecenas vitae neque non orci lobortis condimentum. Vivamus luctus massa velit, eu mattis tortor porttitor vitae. Quisque posuere nibh nec ornare volutpat. Vivamus id arcu suscipit, convallis odio vel, vehicula nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam hendrerit quis diam consectetur pulvinar. 
+Lorem ipsum dolor sit amet...
+Página em construção
 
 
 
