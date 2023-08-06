@@ -80,6 +80,7 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 Os atributos dão características das entidades. São os elementos básicos que ajudam a formar e dar identidade às entidades. São os tijolos básicos das entidades e sua compreensão. 
 
 ```
+Observação:
 Algumas ferramentas de diagramação os atributos estão conectados nas
 entidades e representados em forma oval. É bom citar que esta é uma das
 piores formas de representação de atributos em entidades, pois os diagramas
