@@ -77,14 +77,14 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 
 ## 2.2 Atributos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. 
 
 
-
+<!---
 ![Exemplo de entidades](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png "Exemplo de entidades")
+-->
 
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png" alt= “atributos” width="50" height="50">
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png" alt= “atributos” width="350" height="180">
 
 
 
