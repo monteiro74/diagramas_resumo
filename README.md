@@ -249,7 +249,7 @@ Critérios para os diagramas entrar nesta lista:
 
 ```
 As informações aqui contidas podem ser alteradas sem aviso prévio.
-Primeira postagem em: 1º semestre de 2023 (prox. jun/2023). 
+Primeira postagem em: 17/jun/2023). 
 Última atualização em: 06/agosto/2023.
 Se desejar conhecer outras ferramentas para desenvolvimento de software, consulte a página: https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 ```
