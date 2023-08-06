@@ -73,6 +73,9 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. 
 
 
+
+![Exemplo de entidades](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png "Exemplo de entidades")
+
 ## 2.3 Relacionamentos
 
 A forma como uma entidade se conecta com outra, ou seja, a forma como uma entidade (ou objeto ou "coisa") esta associada com outras deve ser representada por uma ligação. Esta ligação é chamada de relacionamento. Basicamente uma relação pode ser representada por uma linha simples, ou com um 
