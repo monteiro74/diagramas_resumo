@@ -80,7 +80,12 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 Os atributos dão características das entidades. São os elementos básicos que ajudam a formar e dar identidade às entidades. São os tijolos básicos das entidades e sua compreensão. 
 
 ```
-Algumas ferramentas de diagramação os atributos estão conectados nas entidades e representados em forma oval. É bom citar que esta é uma das piores formas de representação de atributos em entidades, pois os diagramas tendem a crescer conforme o analista vai melhorando ou especificando mais detalhes nos diagramas, essa abordagem de usar  balões como atributos flutuando conectados nas suas respectivas entidades não é eficiente.<br>
+Algumas ferramentas de diagramação os atributos estão conectados nas
+entidades e representados em forma oval. É bom citar que esta é uma das
+piores formas de representação de atributos em entidades, pois os diagramas
+tendem a crescer conforme o analista vai melhorando ou especificando mais
+detalhes nos diagramas, essa abordagem de usar  balões como atributos 
+flutuando conectados nas suas respectivas entidades não é eficiente.
 ```
 
 
