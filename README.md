@@ -28,6 +28,9 @@ exemplo de caixa de texto
 -->
 
 
+
+
+
 ---
 # 1 Definições
 
@@ -41,6 +44,10 @@ Fonte: https://conceitos.com/diagrama/
 
 Definição 3: Delineação; modo de representação feito através de gráficos, de esquemas, de linhas, de pontos: diagrama elétrico. Esboço; demonstração dos aspectos gerais de alguma coisa: diagrama do televisor. Tipo de maquete que contém o cenário usado nas filmagens. <br>
 Fonte: https://www.dicio.com.br/diagrama/
+
+
+
+
 
 
 
@@ -65,6 +72,7 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. 
 
+
 ## 2.3 Relacionamentos
 
 A forma como uma entidade se conecta com outra, ou seja, a forma como uma entidade (ou objeto ou "coisa") esta associada com outras deve ser representada por uma ligação. Esta ligação é chamada de relacionamento. Basicamente uma relação pode ser representada por uma linha simples, ou com um 
@@ -73,30 +81,19 @@ A forma como uma entidade se conecta com outra, ou seja, a forma como uma entida
 
 
 
-```
-Dica: exemplo de caixa de texto
-```
+
 
 ---
 # 3 DFD
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. Maecenas vitae neque non orci lobortis condimentum. Vivamus luctus massa velit, eu mattis tortor porttitor vitae. Quisque posuere nibh nec ornare volutpat. Vivamus id arcu suscipit, convallis odio vel, vehicula nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam hendrerit quis diam consectetur pulvinar. Morbi bibendum sagittis sapien, quis efficitur velit iaculis et. Nunc eu arcu et dolor dignissim placerat sed et eros. Vivamus viverra nunc lacus, sit amet porttitor metus tempor et. Proin lectus orci, aliquet et orci nec, rutrum euismod enim. Praesent accumsan nibh quam, eu efficitur mauris convallis dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut blandit, velit vitae lobortis iaculis, mauris urna lacinia ante, quis viverra nisi libero fermentum dolor.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. Maecenas vitae neque non orci lobortis condimentum. Vivamus luctus massa velit, eu mattis tortor porttitor vitae. Quisque posuere nibh nec ornare volutpat. Vivamus id arcu suscipit, convallis odio vel, vehicula nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam hendrerit quis diam consectetur pulvinar. 
 
-Comparativo:
 
-|	          | CPSI          | Contrato de fornecimento|
-| ------------ | ------------- | ----------------------- |
-| Tempo        | 12 meses + 12 | 24 meses + 24           |
-| Valor        | 1,6           | 8                       |
-
-```
-Dica: exemplo de caixa de texto
-```
 
 ---
 # 4 UML
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. Maecenas vitae neque non orci lobortis condimentum. Vivamus luctus massa velit, eu mattis tortor porttitor vitae. Quisque posuere nibh nec ornare volutpat. Vivamus id arcu suscipit, convallis odio vel, vehicula nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam hendrerit quis diam consectetur pulvinar. Morbi bibendum sagittis sapien, quis efficitur velit iaculis et. Nunc eu arcu et dolor dignissim placerat sed et eros. Vivamus viverra nunc lacus, sit amet porttitor metus tempor et. Proin lectus orci, aliquet et orci nec, rutrum euismod enim. Praesent accumsan nibh quam, eu efficitur mauris convallis dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut blandit, velit vitae lobortis iaculis, mauris urna lacinia ante, quis viverra nisi libero fermentum dolor.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor ante id ipsum sollicitudin imperdiet vel nec arcu. Maecenas vitae neque non orci lobortis condimentum. Vivamus luctus massa velit, eu mattis tortor porttitor vitae. Quisque posuere nibh nec ornare volutpat. Vivamus id arcu suscipit, convallis odio vel, vehicula nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam hendrerit quis diam consectetur pulvinar. 
 
 
 
@@ -151,7 +148,7 @@ Definição
 
 Exemplos:
 
-![Exemplo de classe](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png "Exemplo de classe")
+![Exemplo de classe](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png)
 
 
 ## Fundamental Modeling Concepts (FMC)
