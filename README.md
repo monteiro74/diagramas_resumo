@@ -77,7 +77,7 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 
 ## 2.2 Atributos
 
-Os atributos dão características das entidades. São os elementos básicos que ajudam a formar e dar identidade às entidades. São os tijolos básicos das entidades e sua compreensão. 
+Os atributos dão características das entidades. São os elementos básicos que ajudam a formar e dar identidade às entidades. São os tijolos básicos das entidades e sua compreensão. Atributos também podem ser características de relações. 
 
 ```
 Observação:
@@ -89,6 +89,7 @@ detalhes nos diagramas, essa abordagem de usar  balões como atributos
 flutuando conectados nas suas respectivas entidades não é eficiente.
 ```
 
+Recomendamos representar os atributos dentro do retângulo das entidades, separando apenas o título da entidade dos atributos por uma linha.
 
 <!---
 ![Exemplo de entidades](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png "Exemplo de entidades")
