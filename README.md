@@ -102,8 +102,17 @@ Recomendamos representar os atributos dentro do retângulo das entidades, separa
 
 ## 2.3 Relacionamentos
 
-A forma como uma entidade se conecta com outra, ou seja, a forma como uma entidade (ou objeto ou "coisa") esta associada com outras deve ser representada por uma ligação. Esta ligação é chamada de relacionamento. Basicamente uma relação pode ser representada por uma linha simples, ou com um 
+A forma como uma entidade se conecta com outra, ou seja, a forma como uma entidade (ou objeto ou "coisa") esta associada com outras deve ser representada por uma ligação. Esta ligação é chamada de relacionamento. Basicamente uma relação pode ser representada por uma linha simples, interligando as entidades. 
 
+Nota: As entidades devem ter atributos semelhantes (e com tipos de dados semelhantes) para que esta ligação possa ser realizada. Sugerimos leituras sobre as chaves estrangeiras (FK).
+
+```
+Existem diversas formas de notação, uma delas é pela utilização
+de uma figura tipo um diamante no centro da linha que interliga as
+entidades, não recomendamos pois esse tipo de abordagem, mais uma 
+vez... acaba ocupando uma quantidade grande de espaço conforme o 
+modelo vai sendo especializado e ampliado.
+```
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/relacionamentos.png" alt= “relacionamentos” width="450" height="180">
 
