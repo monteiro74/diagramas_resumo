@@ -130,7 +130,7 @@ Na figura abaixo o relacionamento pode ser lido como: 1(um) aluno "pode ter" zer
 
 Na figura abaixo temos vários exemplos de relacionamentos e suas notações com a respectiva cardinalidade (quantidade de ocorrências das entidades em cada lado).
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/relacionamentos.png" alt= “relacionamentos” width="450" height="180">
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/tipos_relacionamentos.png" alt= “tipos_de_relacionamentos” width="550" height="280">
 
 
 
