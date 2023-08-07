@@ -159,12 +159,12 @@ Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
 | Retângulo | Entidade externa     |
 | Retângulo com a lateral aberta | Arquivo de dados ou banco de dados |
 | Seta | Sentido do fluxo de dados, com descrição de dados |
-| Retângulo "maior" | Opcional, geralmente representa as fronteiras do sistema |
+| Retângulo "maior" pontilhado | Opcional, geralmente representa as fronteiras do sistema |
 
 <br>
 
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd2.png" alt= “relacionamentos” width="450" height="400">
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd3.png" alt= “relacionamentos” width="450" height="400">
 
 
 
