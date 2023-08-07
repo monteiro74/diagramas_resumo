@@ -176,7 +176,7 @@ Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
 ---
 # 4 UML
 
-Página em construção... 
+UML significa Unified Modeling Language (ou linguagem de modelagem unificada), é um componente da engenharia de software como ferramenta de diagramação e modelagem de sistemas principalmente orientados a objetos. Outros tipos de sistemas como estruturados, real-time também podem ser modelados com UML (apesar de este não ser seu foco principal). A UML é divida em vários diagramas que abordam aspectos dinâmicos e estáricos da visão estrutural de um sistema.  A UML surgiu  na década de 1990 pelo Object Management Group (OMG).
 
 
 
