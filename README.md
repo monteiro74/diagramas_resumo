@@ -135,6 +135,11 @@ Na figura abaixo temos vários exemplos de relacionamentos e suas notações com
 
 
 
+Que tal desenha o mais informal possível ? Objetivando apenas representar as entidades e suas relações.
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/entidades2.png" alt= “desenhos_informal” width="550" height="280">
+
+
 
 ---
 # 3 DFD
