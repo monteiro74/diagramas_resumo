@@ -56,7 +56,10 @@ Fonte: https://www.dicio.com.br/diagrama/
 
 É um tipo de diagrama que apresenta as entidades de um sistema; estas entidades são conectadas por relacionamentos, as entidades possuem internamente atributos. Este diagrama é utilizado para modelar bancos de dados, também pode representar regras de negócio utilizadas pelas empresas. Também permite perceber as conexões lógicas entre "as coisas" com as quais se deseja representar informações. O criado deste diagrama é o Professor Peter Chen ([Peter Pin-Shan Chen](https://en.wikipedia.org/wiki/Peter_Chen)) na década de 1970 naSloan School of Management no MIT publicado em “The Entity-Relationship Model: Toward a Unified View of Data". O trabalho de DER contribuiu para o modelo de Classes e posteriormente com a UML. 
 
-São componentes de um DER: entidades, atributos e relacionamentos. Os diagramas entidade relacionamento também proporcionam um meio de comunicação. Os diagramas entidades relacionamento são também chamados de diagram ER, Modelo ER. São diagramas estruturais utilizados principalmente para o projeto de um banco de dados (relacional e/ou objeto relacional) 
+São componentes de um DER: entidades, atributos e relacionamentos. Os diagramas entidade relacionamento também proporcionam um meio de comunicação. Os diagramas entidades relacionamento são também chamados de diagram ER, Modelo ER. São diagramas estruturais utilizados principalmente para o projeto de um banco de dados (relacional e/ou objeto relacional). 
+
+
+Na figura abaixo temos 3 exemplos, esta figura esta dividida ao meio, prefira a notação da direita.
 
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/der.png" alt= “DER” width="600" height="420">
@@ -67,7 +70,7 @@ São componentes de um DER: entidades, atributos e relacionamentos. Os diagramas
 ## 2.1 Entidade
 
 
-As entidades são "as coisas" que queremos representar e guardar informações sobre. São exemplos de entidades carros, objetos, lugares, pessoas, veículos, etc. As entidades são representadas por um retângulo com seu nome no centro. 
+As entidades são "as coisas" que queremos representar e guardar informações sobre. São exemplos de entidades carros, objetos, lugares, pessoas, veículos, etc. As entidades são representadas por um retângulo com seu nome no centro. Na figura abaixo temos várias formas de notação diferentes para representar uma entidade.
 
 
 ![Exemplo de entidades](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/entidades.jpg?raw=true "Exemplo de entidades")
@@ -95,9 +98,6 @@ flutuando conectados nas suas respectivas entidades não é eficiente.
 
 Recomendamos representar os atributos dentro do retângulo das entidades, separando apenas o título da entidade dos atributos por uma linha. Abaixo temos uma representação na figura da esquerda a visão lógica e na da direita a visão física, representam a mesma entidade com duas visões diferentes; este mesmo exemplo pode ser utilizado nas situações de modelagem de  classe (visão lógica e física).
 
-<!---
-![Exemplo de entidades](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png "Exemplo de entidades")
--->
 
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png" alt= “atributos” width="350" height="180">
@@ -154,6 +154,13 @@ Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
 
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd2.png" alt= “relacionamentos” width="450" height="400">
+
+
+
+
+
+
+
 
 ---
 # 4 UML
