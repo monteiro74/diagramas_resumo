@@ -61,7 +61,7 @@ Fonte: https://www.dicio.com.br/diagrama/
 São componentes de um DER: entidades, atributos e relacionamentos. Os diagramas entidade relacionamento também proporcionam um meio de comunicação. Os diagramas entidades relacionamento são também chamados de diagram ER, Modelo ER. São diagramas estruturais utilizados principalmente para o projeto de um banco de dados (relacional e/ou objeto relacional). <br>
 
 
-Na figura abaixo temos 3 exemplos, esta figura esta dividida ao meio, prefira a notação da direita.<br>
+Na figura abaixo temos 3 exemplos, esta figura esta dividida ao meio, prefira as notações da direita.<br>
 
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/der.png" alt= “DER” width="600" height="420">
