@@ -180,9 +180,9 @@ Página em construção...
 
 
 
-Todos os diagramas da UML:<br>
+Todos os diagramas da UML são:<br>
 
-A-Diagrama de estrutura:<br>
+A-Diagramas de estrutura (aspecto estático):<br>
 * 1-Diagrama de classes<br>
 * 2-Diagrama de objetos<br>
 * 3-Diagrama de perfil<br>
@@ -191,7 +191,7 @@ A-Diagrama de estrutura:<br>
 * 6-Diagrama de implantação<br>
 * 7-Diagrama de pacotes<br>
 
-B-Diagrama de comportamentos:<br>
+B-Diagramas de comportamentos (aspecto dinâmico):<br>
 * 8-Diagrama de atividades<br>
 * 9-Diagrama de casos de uso<br>
 * 10-Diagrama de máquina de estados<br>
@@ -225,6 +225,8 @@ flowchart
 ```
 
 
+Acreditamos que os mais interessantes e populares são:
+
 ### 4.1 Diagrama de classes
 
 Definição
@@ -233,7 +235,7 @@ Exemplos:
 
 ![Exemplo de classe](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png)
 
-
+---
 ## Fundamental Modeling Concepts (FMC)
 
 http://www.fmc-modeling.org/home
