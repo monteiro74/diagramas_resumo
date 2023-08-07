@@ -10,7 +10,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 [3 DFD - Diagrama de Fluxo de Dados](#3-DFD) <br>
 [4 UML - Unified Modeling Language](#4-UML) <br>
 [5 BPMN - Business Process Model and Notation](#5-BPMN) <br>
-[5 Gráfico de gantt](#6-gantt)<br>
+[5 Gantt](#6-gantt)<br>
 [Referências](#Referências) <br>
 
 
@@ -62,6 +62,8 @@ São componentes de um DER: entidades, atributos e relacionamentos. Os diagramas
 
 
 
+
+
 ## 2.1 Entidade
 
 
@@ -69,6 +71,8 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 
 
 ![Exemplo de entidades](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/entidades.jpg?raw=true "Exemplo de entidades")
+
+
 
 
 
@@ -100,6 +104,10 @@ Recomendamos representar os atributos dentro do retângulo das entidades, separa
 
 
 
+
+
+
+
 ## 2.3 Relacionamentos
 
 A forma como uma entidade se conecta com outra, ou seja, a forma como uma entidade (ou objeto ou "coisa") esta associada com outras deve ser representada por uma ligação. Esta ligação é chamada de relacionamento. Basicamente uma relação pode ser representada por uma linha simples, interligando as entidades. 
@@ -122,11 +130,28 @@ Na figura abaixo o relacionamento pode ser lido como: 1(um) aluno "pode ter" zer
 
 
 
+
+
+
 ---
 # 3 DFD
 
 
-Página em construção...
+O diagrama de fluxo de dados é uma forma de representação das principais funções de um sistema e movimentação de dados entre estas funções, saíde de entidades e arquivos (ou bancos de dados). O DFD foi desenvolvido e popularizado na década de 70, onde ainda era comum a utilização de arquivos para o armazenamento de dados. Os principais desenvolvedores e promotores deste tipo de diagrama são: Edward Yourdon, Larry Constantine, Tom DeMarco, Chris Gane and Trish Sarson.
+
+
+Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
+
+| Símbolo    | Descrição |
+| -------- | ------- |
+| Círculo  | Processo ou função   |
+| Retângulo | Entidade externa     |
+| Retângulo com a lateral aberta | Arquivo de dados ou banco de dados |
+| Seta | Sentido do fluxo de dados, com descrição de dados |
+| Retângulo "maior" | Opcional, geralmente representa as fronteiras do sistema |
+
+<br>
+
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd2.png" alt= “relacionamentos” width="450" height="400">
 
