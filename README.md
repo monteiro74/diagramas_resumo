@@ -240,7 +240,7 @@ http://www.fmc-modeling.org/home
 
 
 ```
-Dica: não recomendo FMC !
+Dica: não recomendo FMC no momento !
 ```
 
 
