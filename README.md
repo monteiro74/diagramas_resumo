@@ -128,7 +128,7 @@ Na figura abaixo o relacionamento pode ser lido como: 1(um) aluno "pode ter" zer
 
 Página em construção...
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/relacionamentos.png" alt= “relacionamentos” width="450" height="180">
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd2.png" alt= “relacionamentos” width="450" height="400">
 
 ---
 # 4 UML
