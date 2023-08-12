@@ -227,7 +227,7 @@ flowchart
 
 Acreditamos que os mais interessantes e populares são:
 
-### 4.1 Diagrama de classes
+## 4.1 Diagrama de classes
 
 Definição
 
@@ -236,6 +236,26 @@ Exemplos:
 ![Exemplo de classe](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png)
 
 ![Exemplo de classe](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe11.png)
+
+
+## 4.2. Diagrama de componentes
+
+
+## 4.3. Diagrama de implantação
+
+## 4.4. Diagrama de pacotes
+
+## 4.5. Diagrama de atividades
+
+## 4.6. Diagrama de casos de uso
+
+## 4.7. Diagrama de sequência
+
+
+
+
+
+
 ---
 ## Fundamental Modeling Concepts (FMC)
 
