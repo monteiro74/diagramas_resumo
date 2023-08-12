@@ -235,6 +235,7 @@ Exemplos:
 
 ![Exemplo de classe](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png)
 
+![Exemplo de classe](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe11.png)
 ---
 ## Fundamental Modeling Concepts (FMC)
 
