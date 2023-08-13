@@ -241,6 +241,9 @@ Note que na figura temos uma associação (ou relação) do tipo generalização
 
 ![Generalização/especialização](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe_generaliza_especializa.png)
 
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe_generaliza_especializa.png" alt="Componentes do diagrama de componentes" style="height: 300px; width:400px;"/>
+
+
 Alguns símbolos de acesso mais populares (ou modificadores de acesso ou visibilidade):
 
 | Símbolo    | Significado |
@@ -252,9 +255,6 @@ Alguns símbolos de acesso mais populares (ou modificadores de acesso ou visibil
 Definição: "**Public**: qualquer um pode acessar variáveis de instância públicas. **Protected**: apenas métodos do mesmo pacote ou subclasse podem acessar variáveis de instância protegidas. **Private**: apenas métodos da mesma classe (excluindo métodos de uma subclasse) podem acessar variáveis de instâncias privadas” (Fonte: https://blog.grancursosonline.com.br/java-modificadores-de-acesso-parte-ii-15-questoes-comentadas/#:~:text=public%3A%20qualquer%20um%20pode%20acessar,acessar%20vari%C3%A1veis%20de%20inst%C3%A2ncias%20privadas%E2%80%9D.)
 
 Como exemplificado na figura abaixo:<br>
-
-![Exemplo de classe e visibilidade](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png)
-
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png" alt="Componentes do diagrama de componentes" style="height: 150px; width:200px;"/>
 
