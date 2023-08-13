@@ -286,7 +286,7 @@ A partir de diagramas como o diagrama de classes e o diagrama de casos de uso é
 
 O diagrama de componentes pode ser representado de várias formas, seguem alguns exemplos:
 
-![Elementos de componentes]()
+![Elementos de componentes](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png)
 
 
 ## 4.4. Diagrama de implantação
