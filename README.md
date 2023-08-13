@@ -310,7 +310,8 @@ A interface fornecida sai do componente a partir de uma linha reta e termina em 
 
 A representação de porta é feita por um quadrado:
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes4.png" alt="Portas" style="height: 90px; width:330px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes4a.png" alt="Portas" style="height: 90px; width:330px;"/>
+
 ## 4.4. Diagrama de implantação
 
 Página em construção...
