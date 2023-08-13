@@ -5,7 +5,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 
 # Sumário:
 
-[1 Definições](#1-Definições)
+[1 Definições](#1-Definições)<br>
 [2 DER](#2-der) 
 [3 DFD](#3-dfd) 
 [4 UML](#4-uml) 
