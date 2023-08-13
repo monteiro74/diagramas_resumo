@@ -279,7 +279,15 @@ Nota: A UML usa o termo componente para indicar um módulo (de classes)
 que representa um sistema (ou suas sub partes).
 ```
 
+A partir de diagramas como o diagrama de classes e o diagrama de casos de uso é possível ter conhecimento de vários elementos de um sistema, a representação destes via artefatos de software vem a ter sequência com o diagrama de componentes. Estes elementos podem ser representados da 3 formas:
+* Elementos de instalação: o que é necessário para rodar o software como um servidor de banco de dados, bibliotecas .net, etc
+* Elementos para o funcionamento: bibliotecas matemáticas, visual c++ redistributable, bibliotecas dinâmicas DLL, arquivos de ajuda, etc.
+* Elementos de execução: executáveis e seus arquivos acessórios.
+
 O diagrama de componentes pode ser representado de várias formas, seguem alguns exemplos:
+
+![Elementos de componentes]()
+
 
 ## 4.4. Diagrama de implantação
 
