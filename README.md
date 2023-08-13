@@ -271,7 +271,7 @@ Os elementos representados podem ser vários como:
 * arquivos ou tabelas
 * formulários (ou telas de usuários)
 * relatórios (projeto ou templates de relatórios)
-* entre outros elementos que se deseja representar
+* entre outros elementos que se deseja representar sobre as partes de um sistema e seu interelacionamento.
 
 
 ```
