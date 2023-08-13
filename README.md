@@ -289,6 +289,9 @@ O diagrama de componentes pode ser representado de várias formas, seguem alguns
 ![Elementos de componentes](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png)
 
 
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png" alt="Componentes do diagrama de componentes" style="height: 100px; width:100px;"/>
+
+
 ## 4.4. Diagrama de implantação
 
 ## 4.5. Diagrama de pacotes
