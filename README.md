@@ -229,7 +229,7 @@ Acreditamos que os mais interessantes e populares são os citados a seguir:
 
 ## 4.1 Diagrama de classes
 
-Definição
+O diagrama de classe são o pilar da UML e dos projetos OO. A classe é um retângulo dividido em 3 partes (nome da classe, atributos(características ou campos) e métodos (procedimentos ou funções)). O diagrama de classes e subclasses são associadas via uma relação (similar ao DER (diagrama entidade relacionemnto)) permitindo apresentar os componentes estáticos de um sistema, esquematizando estruturas de dados poderão ser implementadas na forma de tabelas em um banco e como funções de aplicações.
 
 Exemplos:
 
