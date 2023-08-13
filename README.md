@@ -6,10 +6,10 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 # Sumário:
 
 [1 Definições](#1-Definições) <br>
-[2 DER](#2-DER) <br>
-[3 DFD](#3-DFD) <br>
-[4 UML](#4-UML) <br>
-[5 BPMN](#5-BPMN) <br>
+[2 DER](#2-der) <br>
+[3 DFD](#3-dfd) <br>
+[4 UML](#4-uml) <br>
+[5 BPMN](#5-bpmn) <br>
 [6 Gantt](#6-gantt)<br>
 [7 Kanban](#7-kanban)<br>
 [Referências](#Referências) <br>
