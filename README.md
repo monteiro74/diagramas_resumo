@@ -255,9 +255,23 @@ Como exemplificado na figura abaixo:<br>
 
 ![Exemplo de classe e visibilidade](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png)
 
-## 4.2. Diagrama de componentes
 
-O diagrama de componenes é um "desenho" importante no projeto de um software pois apresenta os "órgãos" (ou estruturas) internas do software. Este diagrama apresenta a forma como estão conectados os elementos do software. Um componente pode representar um agrupamento de classes ou uma classe entre sistemas ou subsistemas desde que estes tenham alguma interação entre si. São identificadores apenas componentes necessários para que o sistema funcione. Permite representar partes de códigos fontes, pois permite representar as partes funcionais de interesse. Permite representar as peças distribuíveis e/ou substituíveis de um sistema, bem como os pontos de interface do sistema que se deseja representar e seu contato com outros sistemas.
+## 4.2. Diagrama de casos de uso
+
+## 4.3. Diagrama de componentes
+
+O diagrama de componenes é um "desenho" importante no projeto de um software pois apresenta os "órgãos" (ou estruturas) internas do software. Este diagrama apresenta a forma como estão conectados os elementos do software. Um componente pode representar um agrupamento de classes ou uma classe entre sistemas ou subsistemas desde que estes tenham alguma interação entre si. São identificadores apenas componentes necessários para que o sistema funcione. 
+
+Permite representar partes de códigos fontes, pois permite representar as partes funcionais de interesse. Permite representar as peças distribuíveis e/ou substituíveis de um sistema, bem como os pontos de interface do sistema que se deseja representar e seu contato com outros sistemas. É possível representar e agrupar cada função do sistema.
+
+Os elementos representados podem ser vários como:
+* biblitecas de funções (ou outros tipos de bibliotecas)
+* arquivos de documentação
+* executáveis
+* arquivos ou tabelas
+* formulários (ou telas de usuários)
+* relatórios (projeto ou templates de relatórios)
+* entre outros elementos que se deseja representar
 
 
 ```
@@ -265,13 +279,13 @@ Nota: A UML usa o termo componente para indicar um módulo
  (de classes) que representa um sistema (ou suas sub partes).
 ```
 
-## 4.3. Diagrama de implantação
+O diagrama de componentes pode ser representado de várias formas, seguem alguns exemplos:
 
-## 4.4. Diagrama de pacotes
+## 4.4. Diagrama de implantação
 
-## 4.5. Diagrama de atividades
+## 4.5. Diagrama de pacotes
 
-## 4.6. Diagrama de casos de uso
+## 4.6. Diagrama de atividades
 
 ## 4.7. Diagrama de sequência
 
@@ -287,7 +301,8 @@ http://www.fmc-modeling.org/home
 
 
 ```
-Dica: não recomendo FMC no momento !
+Dica: simplesmente não recomendo FMC no momento !
+Prezados alunos... fiquem longe disso !
 ```
 
 
