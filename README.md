@@ -275,6 +275,13 @@ Outro exemplo:
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/casosdeuso2.png" alt="Modificador de acesso" style="height: 450px; width:500px;"/>
 
+Para extender os casos de uso temos duas notações, incluve e extend. No tipo include o caso de uso existe uma adição de uma nova operação no caso de uso base, ou seja no caso include uma nova sub operação é adicionada. Já no caso de extend, uma funcionalidade opcional é adicionado às operações do sistema, ou seja, não é algo obrigatório.
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/casosdeuso3.png" alt="Modificador de acesso" style="height: 450px; width:500px;"/>
+
+
+
+
 [Voltar ao sumário](#sumário)<br>
 
 
