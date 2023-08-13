@@ -267,7 +267,7 @@ Este diagrama da UML apresente um aspecto dinâmico de um sistema, ou melhor o c
 
 O diagrama de casos de uso apresenta relações entre atores, funcionalidades, sistema e subsistemas, independente da ordem em que estas interações ocorrem. O diagrama permite capturar o contexto e os requisitos do sistema. 
 
-
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/casosdeuso1.png" alt="Modificador de acesso" style="height: 150px; width:200px;"/>
 
 [Voltar ao sumário](#sumário)<br>
 
