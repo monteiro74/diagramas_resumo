@@ -225,7 +225,7 @@ flowchart
 ```
 
 
-Acreditamos que os mais interessantes e populares são:
+Acreditamos que os mais interessantes e populares são os citados a seguir:
 
 ## 4.1 Diagrama de classes
 
@@ -237,13 +237,15 @@ Exemplos:
 
 ![Exemplo de classe](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe11.png)
 
-Exemplo de desenho de classe com alguns símbolos de acesso (ou modificadores de acesso ou visibilidade):
+Alguns símbolos de acesso mais populares (ou modificadores de acesso ou visibilidade):
 
 | Símbolo    | Significado |
 | -------- | ------- |
 | +  | Público    |
 | - | Privado    |
 | #    | Protegido    |
+
+Definição: "**Public**: qualquer um pode acessar variáveis de instância públicas. **Protected**: apenas métodos do mesmo pacote ou subclasse podem acessar variáveis de instância protegidas. **Private**: apenas métodos da mesma classe (excluindo métodos de uma subclasse) podem acessar variáveis de instâncias privadas” (Fonte: https://blog.grancursosonline.com.br/java-modificadores-de-acesso-parte-ii-15-questoes-comentadas/#:~:text=public%3A%20qualquer%20um%20pode%20acessar,acessar%20vari%C3%A1veis%20de%20inst%C3%A2ncias%20privadas%E2%80%9D.)
 
 Como exemplificado na figura abaixo:<br>
 
