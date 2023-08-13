@@ -261,6 +261,8 @@ Como exemplificado na figura abaixo:<br>
 
 ## 4.2. Diagrama de casos de uso
 
+Página em construção...
+
 ## 4.3. Diagrama de componentes
 
 O diagrama de componenes é um "desenho" importante no projeto de um software pois apresenta os "órgãos" (ou estruturas) internas do software. Este diagrama apresenta a forma como estão conectados os elementos do software. Um componente pode representar um agrupamento de classes ou uma classe entre sistemas ou subsistemas desde que estes tenham alguma interação entre si. São identificadores apenas componentes necessários para que o sistema funcione. 
@@ -297,15 +299,25 @@ Outro exemplo, mostrando um pacote e seus componentes internos (outros pacotes):
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes2.png" alt="Componentes do diagrama de componentes" style="height: 160px; width:330px;"/>
 
+
+### 4.3.1. Interfaces
+
+As interfaces representam um serviço, mas não apresentam detalhes de sua implementação.
+
 ## 4.4. Diagrama de implantação
+
+Página em construção...
 
 ## 4.5. Diagrama de pacotes
 
+Página em construção...
+
 ## 4.6. Diagrama de atividades
 
+Página em construção...
 ## 4.7. Diagrama de sequência
 
-
+Página em construção...
 
 
 
