@@ -237,6 +237,16 @@ Exemplos:
 
 ![Exemplo de classe](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe11.png)
 
+Exemplo de desenho de classe com alguns símbolos de acesso (ou modificadores de acesso ou visibilidade):
+
+| Símbolo    | Significado |
+| -------- | ------- |
+| +  | Público    |
+| - | Privado    |
+| #    | Protegido    |
+
+Como exemplificado na figura abaixo:
+
 
 ## 4.2. Diagrama de componentes
 
