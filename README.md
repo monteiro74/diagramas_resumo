@@ -271,6 +271,10 @@ Segue um exemplo com as estruturas abaixo:
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/casosdeuso1.png" alt="Modificador de acesso" style="height: 300px; width:380px;"/>
 
+Outro exemplo:
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/casosdeuso2.png" alt="Modificador de acesso" style="height: 300px; width:380px;"/>
+
 [Voltar ao sumário](#sumário)<br>
 
 
