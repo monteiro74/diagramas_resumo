@@ -9,10 +9,14 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 [2 DER](#2-der) <br>
 [3 DFD](#3-dfd) <br>
 [4 UML](#4-uml) <br>
-[4.1. Diagrama de classes](#41-diagrama-de-classes) <br>
-[4.2. Diagrama de casos de uso](#42-diagrama-de-casos-de-uso) <br>
-[4.3. Diagrama de componentes](#43-diagrama-de-componentes) <br>
-[4.3.1 Interfaces](#431-interfaces) <br>
+[4.1. Diagrama de classes](#41-diagrama-de-classes)<br>
+[4.2. Diagrama de casos de uso](#42-diagrama-de-casos-de-uso)<br>
+[4.3. Diagrama de atividades](#43-diagrama-de-atividades)<br>
+[4.4. Diagrama de sequência](#44-diagrama-de-sequência)<br>
+[4.5. Diagrama de componentes](#45-diagrama-de-componentes)<br>
+[4.5.1. Interfaces](#451-interfaces)<br>
+[4.6. Diagrama de pacotes](#46-diagrama-de-pacotes)<br>
+[4.7. Diagrama de implantação](#47-diagrama-de-implantação)<br>
 [5 BPMN](#5-bpmn) <br>
 [6 Gantt](#6-gantt) <br>
 [7 Kanban](#7-kanban) <br>
@@ -87,6 +91,8 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 
 
 
+
+
 ## 2.2 Atributos
 
 Os atributos dão características das entidades. São os elementos básicos que ajudam a formar e dar identidade às entidades. São os tijolos básicos das entidades e sua compreensão. Atributos também podem ser características de relações. <br>
@@ -109,6 +115,8 @@ Recomendamos representar os atributos dentro do retângulo das entidades, separa
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png" alt= “atributos” width="350" height="180">
 
 [Voltar ao sumário](#sumário)<br>
+
+
 
 
 
@@ -147,6 +155,14 @@ Que tal desenha o mais informal possível ? Objetivando apenas representar as en
 
 [Voltar ao sumário](#sumário)<br>
 
+
+
+
+
+
+
+
+
 ---
 # 3 DFD
 
@@ -169,6 +185,10 @@ Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd3.png" alt="dfd" style="height: 480px; width:480px;"/>
 
 [Voltar ao sumário](#sumário)<br>
+
+
+
+
 
 
 
@@ -266,6 +286,8 @@ Como exemplificado na figura abaixo:<br>
 
 
 
+
+
 ## 4.2. Diagrama de casos de uso
 
 Este diagrama da UML apresente um aspecto dinâmico de um sistema, ou melhor o comportamento do sistema com relação seus atores (sejam eles pessoas ou interações com outros sistemas). Ele apresenta partes funcionais de um sistema. Este diagrama contém atores, ações (ou funções) e fronteiras do sistema modelado. Todo ator é representado por um boneco de linhas simples ou "palitinhos". Este diagrama é foca no comportamento do sistema. Este diagrama não apresenta detalhes internos de funcionamento do sistema. 
@@ -290,17 +312,7 @@ Para extender os casos de uso temos duas notações, incluve e extend. No tipo i
 
 
 
-## 4.6. Diagrama de atividades
-
-Página em construção...
-
-[Voltar ao sumário](#sumário)<br>
-
-
-
-
-
-## 4.7. Diagrama de sequência
+## 4.3. Diagrama de atividades
 
 Página em construção...
 
@@ -313,7 +325,21 @@ Página em construção...
 
 
 
-## 4.3. Diagrama de componentes
+
+## 4.4. Diagrama de sequência
+
+Página em construção...
+
+[Voltar ao sumário](#sumário)<br>
+
+
+
+
+
+
+
+
+## 4.5. Diagrama de componentes
 
 O diagrama de componenes é um "desenho" importante no projeto de um software pois apresenta os "órgãos" (ou estruturas) internas do software. Este diagrama apresenta a forma como estão conectados os elementos do software. Um componente pode representar um agrupamento de classes ou uma classe entre sistemas ou subsistemas desde que estes tenham alguma interação entre si. São identificadores apenas componentes necessários para que o sistema funcione. 
 
@@ -354,7 +380,7 @@ Outro exemplo, mostrando um pacote e seus componentes internos (outros pacotes),
 
 
 
-### 4.3.1. Interfaces
+### 4.5.1. Interfaces
 
 As interfaces representam um serviço, mas não apresentam detalhes de sua implementação. Interface necessária do componente ou esperada (é um semi-círculo) e o a interface fornecida (círculo). Exemplo:
 
@@ -374,7 +400,7 @@ A representação de porta é feita por um quadrado da qual parte a ligação do
 
 
 
-## 4.5. Diagrama de pacotes
+## 4.6. Diagrama de pacotes
 
 Página em construção...
 
@@ -389,7 +415,7 @@ Página em construção...
 
 
 
-## 4.4. Diagrama de implantação
+## 4.7. Diagrama de implantação
 
 Página em construção...
 
