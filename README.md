@@ -6,10 +6,10 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 # Sumário:
 
 [1 Definições](#1-Definições) <br>
-[2 DER - Diagrama Entidade Relacionamento](#2-DER) <br>
-[3 DFD - Diagrama de Fluxo de Dados](#3-DFD) <br>
-[4 UML - Unified Modeling Language](#4-UML) <br>
-[5 BPMN - Business Process Model and Notation](#5-BPMN) <br>
+[2 DER](#2-DER) <br>
+[3 DFD](#3-DFD) <br>
+[4 UML](#4-UML) <br>
+[5 BPMN](#5-BPMN) <br>
 [6 Gantt](#6-gantt)<br>
 [7 Kanban](#7-kanban)<br>
 [Referências](#Referências) <br>
@@ -146,7 +146,7 @@ Que tal desenha o mais informal possível ? Objetivando apenas representar as en
 # 3 DFD
 
 
-O diagrama de fluxo de dados (DFD) é uma forma de representação das principais funções de um sistema e movimentação de dados entre estas funções, saíde de entidades e arquivos (ou bancos de dados). O DFD foi desenvolvido e popularizado na década de 70, onde ainda era comum a utilização de arquivos para o armazenamento de dados. Os principais desenvolvedores e promotores deste tipo de diagrama são: Edward Yourdon, Larry Constantine, Tom DeMarco, Chris Gane and Trish Sarson.
+O Diagrama de Fluxo de Dados (DFD) é uma forma de representação das principais funções de um sistema e movimentação de dados entre estas funções, saíde de entidades e arquivos (ou bancos de dados). O DFD foi desenvolvido e popularizado na década de 70, onde ainda era comum a utilização de arquivos para o armazenamento de dados. Os principais desenvolvedores e promotores deste tipo de diagrama são: Edward Yourdon, Larry Constantine, Tom DeMarco, Chris Gane and Trish Sarson.
 
 
 Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
@@ -170,7 +170,7 @@ Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
 ---
 # 4 UML
 
-UML significa Unified Modeling Language (ou linguagem de modelagem unificada), é um componente da engenharia de software como ferramenta de diagramação e modelagem de sistemas principalmente orientados a objetos. Outros tipos de sistemas como estruturados, real-time também podem ser modelados com UML (apesar de este não ser seu foco principal). A UML é divida em vários diagramas que abordam aspectos dinâmicos e estáricos da visão estrutural de um sistema.  A UML surgiu  na década de 1990 pelo Object Management Group (OMG).
+Unified Modeling Language (UML, ou linguagem de modelagem unificada), é um componente da engenharia de software como ferramenta de diagramação e modelagem de sistemas principalmente orientados a objetos. Outros tipos de sistemas como estruturados, real-time também podem ser modelados com UML (apesar de este não ser seu foco principal). A UML é divida em vários diagramas que abordam aspectos dinâmicos e estáricos da visão estrutural de um sistema.  A UML surgiu  na década de 1990 pelo Object Management Group (OMG).
 
 
 
