@@ -275,8 +275,7 @@ Os elementos representados podem ser vários como:
 
 
 ```
-Nota: A UML usa o termo componente para indicar um módulo
- (de classes) que representa um sistema (ou suas sub partes).
+Nota: A UML usa o termo componente para indicar um módulo (de classes) que representa um sistema (ou suas sub partes).
 ```
 
 O diagrama de componentes pode ser representado de várias formas, seguem alguns exemplos:
