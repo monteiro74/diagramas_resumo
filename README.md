@@ -257,6 +257,7 @@ Como exemplificado na figura abaixo:<br>
 
 ## 4.2. Diagrama de componentes
 
+O diagrama de componenes é um "desenho" importante no projeto de um software pois apresenta os "órgãos" (ou estruturas) internas do software. Este diagrama apresenta a forma como estão conectados os elementos do software. Um componente pode representar um agrupamento de classes ou uma classe entre sistemas ou subsistemas desde que estes tenham alguma interação entre si. São identificadores apenas componentes necessários para que o sistema funcione.
 
 ## 4.3. Diagrama de implantação
 
