@@ -10,21 +10,19 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 [3 DFD - Diagrama de Fluxo de Dados](#3-DFD) <br>
 [4 UML - Unified Modeling Language](#4-UML) <br>
 [5 BPMN - Business Process Model and Notation](#5-BPMN) <br>
-[5 Gantt](#6-gantt)<br>
+[6 Gantt](#6-gantt)<br>
+[7 Kanban](#7-kanban)<br>
 [Referências](#Referências) <br>
 
 
 <!---
 
-
      comentario 0
      ![Nova lei de licitação](https://raw.githubusercontent.com/monteiro74/lab_inova_serv_pub/main/imagens/nova_lei_licitacao.jpeg)
-
 
 ```
 exemplo de caixa de texto
 ```
-
 -->
 
 
