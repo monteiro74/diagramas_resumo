@@ -224,7 +224,7 @@ flowchart
 ```
 
 
-Acreditamos que os mais interessantes e populares são os citados a seguir:
+**Acreditamos que os mais interessantes e populares são os citados a seguir:**
 
 ## 4.1 Diagrama de classes
 
@@ -302,7 +302,9 @@ Outro exemplo, mostrando um pacote e seus componentes internos (outros pacotes),
 
 ### 4.3.1. Interfaces
 
-As interfaces representam um serviço, mas não apresentam detalhes de sua implementação.
+As interfaces representam um serviço, mas não apresentam detalhes de sua implementação. Interface necessária do componente (é um semi-círculo) e o a interface fornecida (círculo). Exemplo:
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes3.png" alt="Componentes do diagrama de componentes" style="height: 90px; width:330px;"/>
 
 ## 4.4. Diagrama de implantação
 
