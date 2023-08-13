@@ -292,6 +292,10 @@ O diagrama de componentes pode ser representado de várias formas, seguem alguns
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png" alt="Componentes do diagrama de componentes" style="height: 150px; width:500px;"/>
 
+Outro exemplo:
+
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png" alt="Componentes do diagrama de componentes" style="height: 150px; width:500px;"/>
 
 ## 4.4. Diagrama de implantação
 
