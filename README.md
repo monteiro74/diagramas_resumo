@@ -232,7 +232,7 @@ O diagrama de classe são o pilar da UML e dos projetos OO. A classe é um retâ
 
 Exemplos:
 
-<img src="https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png" alt="Classe" style="height: 120px; width:120px;"/>
+<img src="https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png" alt="Classe" style="height: 100px; width:100px;"/>
 
 Outro diagrama:
 
@@ -347,19 +347,15 @@ Prezados alunos... fiquem longe disso !
 
 Página em construção...
 
-
-
-
-
-
 ---
 # 6 Gantt
 
-
 Página em construção...
 
+---
+# 7 Kanban
 
-
+Página em construção...
 
 
 ---
