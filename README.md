@@ -290,12 +290,12 @@ A partir de diagramas como o diagrama de classes e o diagrama de casos de uso é
 O diagrama de componentes pode ser representado de várias formas, seguem alguns exemplos:
 
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png" alt="Componentes do diagrama de componentes" style="height: 150px; width:500px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png" alt="Componentes do diagrama de componentes" style="height: 160px; width:500px;"/>
 
 Outro exemplo, mostrando um pacote e seus componentes internos (outros pacotes):
 
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes2.png" alt="Componentes do diagrama de componentes" style="height: 150px; width:300px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes2.png" alt="Componentes do diagrama de componentes" style="height: 160px; width:330px;"/>
 
 ## 4.4. Diagrama de implantação
 
