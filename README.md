@@ -256,6 +256,9 @@ Como exemplificado na figura abaixo:<br>
 ![Exemplo de classe e visibilidade](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png)
 
 
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png" alt="Componentes do diagrama de componentes" style="height: 150px; width:200px;"/>
+
+
 ## 4.2. Diagrama de casos de uso
 
 ## 4.3. Diagrama de componentes
@@ -285,8 +288,6 @@ A partir de diagramas como o diagrama de classes e o diagrama de casos de uso é
 * Elementos de execução: executáveis e seus arquivos acessórios.
 
 O diagrama de componentes pode ser representado de várias formas, seguem alguns exemplos:
-
-![Elementos de componentes](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png)
 
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png" alt="Componentes do diagrama de componentes" style="height: 150px; width:500px;"/>
