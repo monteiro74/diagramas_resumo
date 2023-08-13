@@ -237,6 +237,10 @@ Exemplos:
 
 ![Exemplo de classe](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe11.png)
 
+Note que na figura temos uma associação (ou relação) do tipo generalização (e especialização), representada por um triangulo no início da linha:
+
+![Generalização/especialização](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe_generaliza_especializa.png)
+
 Alguns símbolos de acesso mais populares (ou modificadores de acesso ou visibilidade):
 
 | Símbolo    | Significado |
