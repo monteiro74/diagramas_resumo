@@ -3,7 +3,7 @@
 Uma breve compilação de material (curadoria de conteúdo digital) sobre diversos diagramas utilizados na disciplina de engenharia de software, projeto de software, arquitetura de sistemas e bancos de dados. "Resumo dos diagramas mais comuns" que usamos nestas disciplinas. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. Este material esta em construção.
 
 
-# Conteúdo:
+# Sumário:
 
 [1 Definições](#1-Definições) <br>
 [2 DER - Diagrama Entidade Relacionamento](#2-DER) <br>
@@ -45,7 +45,7 @@ Definição 3: Delineação; modo de representação feito através de gráficos
 
 Fonte: https://www.dicio.com.br/diagrama/
 
-
+[Sumário](#sumário)<br>
 
 
 
@@ -64,7 +64,7 @@ Na figura abaixo temos 3 exemplos, esta figura esta dividida ao meio, prefira as
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/der.png" alt= “DER” width="600" height="420">
 
-
+[Voltar ao sumário](#sumário)<br>
 
 
 ## 2.1 Entidade
@@ -75,7 +75,7 @@ As entidades são "as coisas" que queremos representar e guardar informações s
 
 ![Exemplo de entidades](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/entidades.jpg?raw=true "Exemplo de entidades")
 
-
+[Voltar ao sumário](#sumário)<br>
 
 
 
@@ -103,7 +103,7 @@ Recomendamos representar os atributos dentro do retângulo das entidades, separa
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png" alt= “atributos” width="350" height="180">
 
-
+[Voltar ao sumário](#sumário)<br>
 
 
 
@@ -140,7 +140,7 @@ Que tal desenha o mais informal possível ? Objetivando apenas representar as en
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/entidades2.png" alt= “desenhos_informal” width="280" height="80">
 
-
+[Voltar ao sumário](#sumário)<br>
 
 ---
 # 3 DFD
@@ -161,12 +161,9 @@ Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
 
 <br>
 
-
-
-
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd3.png" alt="dfd" style="height: 480px; width:480px;"/>
 
-
+[Voltar ao sumário](#sumário)<br>
 
 
 
@@ -221,6 +218,8 @@ flowchart
             D --> D4[Diagrama de tempo]
 ```
 
+[Voltar ao sumário](#sumário)<br>
+
 
 **Os mais interessantes e populares são os citados a seguir:**
 
@@ -256,12 +255,20 @@ Como exemplificado na figura abaixo:<br>
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png" alt="Modificador de acesso" style="height: 150px; width:200px;"/>
 
+[Voltar ao sumário](#sumário)<br>
+
+
 
 ## 4.2. Diagrama de casos de uso
 
 Este diagrama da UML apresente um aspecto dinâmico de um sistema, ou melhor o comportamento do sistema com relação seus atores (sejam eles pessoas ou interações com outros sistemas). Ele apresenta partes funcionais de um sistema. Este diagrama contém atores, ações (ou funções) e fronteiras do sistema modelado. Todo ator é representado por um boneco de linhas simples ou "palitinhos". Este diagrama é foca no comportamento do sistema. Este diagrama não apresenta detalhes internos de funcionamento do sistema. 
 
-O diagrama de casos de uso apresenta relações entre atores, funcionalidades, sistema e subsistemas, independente da ordem em que estas interações ocorrem. 
+O diagrama de casos de uso apresenta relações entre atores, funcionalidades, sistema e subsistemas, independente da ordem em que estas interações ocorrem.
+
+[Voltar ao sumário](#sumário)<br>
+
+
+
 
 ## 4.3. Diagrama de componentes
 
@@ -299,6 +306,10 @@ Outro exemplo, mostrando um pacote e seus componentes internos (outros pacotes),
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes2.png" alt="Componentes do diagrama de componentes" style="height: 160px; width:330px;"/>
 
+[Voltar ao sumário](#sumário)<br>
+
+
+
 
 ### 4.3.1. Interfaces
 
@@ -312,21 +323,39 @@ A representação de porta é feita por um quadrado da qual parte a ligação do
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes4a.png" alt="Portas" style="height: 90px; width:330px;"/>
 
+[Voltar ao sumário](#sumário)<br>
+
+
+
 ## 4.4. Diagrama de implantação
 
 Página em construção...
+
+
+[Voltar ao sumário](#sumário)<br>
+
+
 
 ## 4.5. Diagrama de pacotes
 
 Página em construção...
 
+
+[Voltar ao sumário](#sumário)<br>
+
+
 ## 4.6. Diagrama de atividades
 
 Página em construção...
+
+[Voltar ao sumário](#sumário)<br>
+
+
 ## 4.7. Diagrama de sequência
 
 Página em construção...
 
+[Voltar ao sumário](#sumário)<br>
 
 
 
@@ -341,27 +370,38 @@ Dica: simplesmente não recomendo FMC no momento !
 Prezados alunos... fiquem longe disso !
 ```
 
+[Voltar ao sumário](#sumário)<br>
+
+
+
 
 ---
 # 5 BPMN
 
 Página em construção...
 
+[Voltar ao sumário](#sumário)<br>
+
 ---
 # 6 Gantt
 
 Página em construção...
+
+[Voltar ao sumário](#sumário)<br>
+
 
 ---
 # 7 Kanban
 
 Página em construção...
 
+[Voltar ao sumário](#sumário)<br>
 
 ---
 # Referências recomendadas
 
 
+[Voltar ao sumário](#sumário)<br>
 
 
 
