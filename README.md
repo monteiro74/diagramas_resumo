@@ -237,7 +237,7 @@ Exemplos:
 
 Outro diagrama:
 
-<img src="https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe11.png" alt="Classe" style="height: 120px; width:120px;"/>
+<img src="https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe11.png" alt="Classe" style="height: 350px; width:450px;"/>
 
 
 Note que na figura temos uma associação (ou relação) do tipo generalização (e especialização), representada por um triangulo no início da linha. O conceito de hereditariedade é também representado por este símbolo uma linha com uma seta:
