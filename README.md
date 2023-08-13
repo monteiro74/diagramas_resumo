@@ -235,13 +235,11 @@ Exemplos:
 
 ![Exemplo de classe](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png)
 
-![Exemplo de classe](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe11.png)
+<img src="https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/classe1.png" alt="Generalização e especialização" style="height: 350px; width:450px;"/>
 
 Note que na figura temos uma associação (ou relação) do tipo generalização (e especialização), representada por um triangulo no início da linha. O conceito de hereditariedade é também representado por este símbolo uma linha com uma seta:
 
-![Generalização/especialização](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe_generaliza_especializa.png)
-
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe_generaliza_especializa.png" alt="Componentes do diagrama de componentes" style="height: 300px; width:400px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe_generaliza_especializa.png" alt="Herança" style="height: 350px; width:450px;"/>
 
 
 Alguns símbolos de acesso mais populares (ou modificadores de acesso ou visibilidade):
@@ -256,7 +254,7 @@ Definição: "**Public**: qualquer um pode acessar variáveis de instância púb
 
 Como exemplificado na figura abaixo:<br>
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png" alt="Componentes do diagrama de componentes" style="height: 150px; width:200px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png" alt="Modificador de acesso" style="height: 150px; width:200px;"/>
 
 
 ## 4.2. Diagrama de casos de uso
