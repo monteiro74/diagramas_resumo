@@ -222,7 +222,7 @@ flowchart
 ```
 
 
-**Acreditamos que os mais interessantes e populares são os citados a seguir:**
+**Os mais interessantes e populares são os citados a seguir:**
 
 ## 4.1 Diagrama de classes
 
@@ -259,7 +259,9 @@ Como exemplificado na figura abaixo:<br>
 
 ## 4.2. Diagrama de casos de uso
 
-Página em construção...
+Este diagrama da UML apresente um aspecto dinâmico de um sistema, ou melhor o comportamento do sistema com relação seus atores (sejam eles pessoas ou interações com outros sistemas). Ele apresenta partes funcionais de um sistema. Este diagrama contém atores, ações (ou funções) e fronteiras do sistema modelado. Todo ator é representado por um boneco de linhas simples ou "palitinhos". Este diagrama é foca no comportamento do sistema. Este diagrama não apresenta detalhes internos de funcionamento do sistema. 
+
+O diagrama de casos de uso apresenta relações entre atores, funcionalidades, sistema e subsistemas, independente da ordem em que estas interações ocorrem. 
 
 ## 4.3. Diagrama de componentes
 
