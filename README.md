@@ -269,7 +269,7 @@ O diagrama de casos de uso apresenta relações entre atores, funcionalidades, s
 
 Segue um exemplo com as estruturas abaixo:
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/casosdeuso1.png" alt="Modificador de acesso" style="height: 300px; width:370px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/casosdeuso1.png" alt="Modificador de acesso" style="height: 300px; width:380px;"/>
 
 [Voltar ao sumário](#sumário)<br>
 
