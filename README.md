@@ -6,9 +6,9 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 # Sumário:
 
 [1 Definições](#1-Definições)<br>
-[2 DER](#2-der) 
-[3 DFD](#3-dfd) 
-[4 UML](#4-uml) 
+[2 DER](#2-der) <br>
+[3 DFD](#3-dfd) <br>
+[4 UML](#4-uml) <br>
 [4.1. Diagrama de classes](#41-diagrama-de-classes)
 [4.2. Diagrama de casos de uso](#42-diagrama-de-casos-de-uso)
 [4.3. Diagrama de componentes](#43-diagrama-de-componentes)
