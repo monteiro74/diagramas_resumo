@@ -285,9 +285,27 @@ Para extender os casos de uso temos duas notações, incluve e extend. No tipo i
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/casosdeuso3.png" alt="Modificador de acesso" style="height: 250px; width:350px;"/>
 
 
+[Voltar ao sumário](#sumário)<br>
 
+
+
+
+## 4.6. Diagrama de atividades
+
+Página em construção...
 
 [Voltar ao sumário](#sumário)<br>
+
+
+
+
+
+## 4.7. Diagrama de sequência
+
+Página em construção...
+
+[Voltar ao sumário](#sumário)<br>
+
 
 
 
@@ -352,12 +370,7 @@ A representação de porta é feita por um quadrado da qual parte a ligação do
 
 
 
-## 4.4. Diagrama de implantação
 
-Página em construção...
-
-
-[Voltar ao sumário](#sumário)<br>
 
 
 
@@ -365,22 +378,24 @@ Página em construção...
 
 Página em construção...
 
-
 [Voltar ao sumário](#sumário)<br>
 
 
-## 4.6. Diagrama de atividades
+
+
+
+
+
+
+
+
+## 4.4. Diagrama de implantação
 
 Página em construção...
 
-[Voltar ao sumário](#sumário)<br>
-
-
-## 4.7. Diagrama de sequência
-
-Página em construção...
 
 [Voltar ao sumário](#sumário)<br>
+
 
 
 
