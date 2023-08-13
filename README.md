@@ -246,7 +246,7 @@ Exemplo de desenho de classe com alguns símbolos de acesso (ou modificadores de
 | #    | Protegido    |
 
 Como exemplificado na figura abaixo:
-
+![Exemplo de classe e visibilidade](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png)
 
 ## 4.2. Diagrama de componentes
 
