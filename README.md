@@ -164,7 +164,6 @@ Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
 <br>
 
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd3.png" alt= “dfd” width="450" height="400">
 
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd3.png" alt="dfd" style="height: 420px; width:420px;"/>
