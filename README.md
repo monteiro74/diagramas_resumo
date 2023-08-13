@@ -302,10 +302,11 @@ Outro exemplo, mostrando um pacote e seus componentes internos (outros pacotes),
 
 ### 4.3.1. Interfaces
 
-As interfaces representam um serviço, mas não apresentam detalhes de sua implementação. Interface necessária do componente (é um semi-círculo) e o a interface fornecida (círculo). Exemplo:
+As interfaces representam um serviço, mas não apresentam detalhes de sua implementação. Interface necessária do componente ou esperada (é um semi-círculo) e o a interface fornecida (círculo). Exemplo:
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes3.png" alt="Componentes do diagrama de componentes" style="height: 90px; width:330px;"/>
 
+A interface fornecida sai do componente a partir de uma linha reta e termina em um circulo fechado, é uma fonte de saída de dados produzidos pelo componente. A interface necessária sai do componente por uma reta e termina em uma lua (semi círculo), é saída que representa a parte do sistema que pede informações.
 ## 4.4. Diagrama de implantação
 
 Página em construção...
