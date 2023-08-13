@@ -308,7 +308,7 @@ As interfaces representam um serviço, mas não apresentam detalhes de sua imple
 
 A interface fornecida sai do componente a partir de uma linha reta e termina em um circulo fechado, é uma fonte de saída de dados produzidos pelo componente. A interface necessária sai do componente por uma reta e termina em uma lua (semi círculo), é saída que representa a parte do sistema que pede informações.
 
-A representação de porta é feita por um quadrado:
+A representação de porta é feita por um quadrado da qual parte a ligação do círculo:
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes4a.png" alt="Portas" style="height: 90px; width:330px;"/>
 
