@@ -294,7 +294,7 @@ O diagrama de componentes pode ser representado de várias formas, seguem alguns
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes1.png" alt="Componentes do diagrama de componentes" style="height: 160px; width:500px;"/>
 
-Outro exemplo, mostrando um pacote e seus componentes internos (outros pacotes):
+Outro exemplo, mostrando um pacote e seus componentes internos (outros pacotes), é uma forma de representação de um empacotamento:
 
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes2.png" alt="Componentes do diagrama de componentes" style="height: 160px; width:330px;"/>
