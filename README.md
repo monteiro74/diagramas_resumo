@@ -9,14 +9,14 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 [2 DER](#2-der) <br>
 [3 DFD](#3-dfd) <br>
 [4 UML](#4-uml) <br>
-[4.1. Diagrama de classes](#41-diagrama-de-classes)
-[4.2. Diagrama de casos de uso](#42-diagrama-de-casos-de-uso)
-[4.3. Diagrama de componentes](#43-diagrama-de-componentes)
-[4.3.1 Interfaces](#431-interfaces)
-[5 BPMN](#5-bpmn) 
-[6 Gantt](#6-gantt)
-[7 Kanban](#7-kanban)
-[Referências](#Referências)
+[4.1. Diagrama de classes](#41-diagrama-de-classes) <br>
+[4.2. Diagrama de casos de uso](#42-diagrama-de-casos-de-uso) <br>
+[4.3. Diagrama de componentes](#43-diagrama-de-componentes) <br>
+[4.3.1 Interfaces](#431-interfaces) <br>
+[5 BPMN](#5-bpmn) <br>
+[6 Gantt](#6-gantt) <br>
+[7 Kanban](#7-kanban) <br>
+[Referências](#Referências) <br>
 
 
 
