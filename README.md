@@ -434,7 +434,7 @@ Outro exemplo:
 
 Outro exemplo:
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/pacotes3.png" alt="Pacotes" style="height: 250px; width:400px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/pacotes3.png" alt="Pacotes" style="height: 180px; width:400px;"/>
 
 [Voltar ao sumário](#sumário)<br>
 
