@@ -424,10 +424,7 @@ O diagrama de pacote é um diagrama estrutural que mostra a organização de vá
 * outros diagramas de pacotes (um diagrama de pacote pode conter outro diagrama de pacote)
 * Outros elementos que sejam necessários para a documentação do sistema
 
-
-A representação de um pacote é um ícone frequentemente utilizado para representar uma pasta em um sistema de arquivos. Permitem que a relação entre os elementos possam ser representadas. Diagramas de classes podem ter classes que trabalham em conjunto agrupas via diagrama de pacotes. 
-
-Na programa de um sistema um pacote pode ser visto com um namaspace pois contém vários elementos que um sistema deve conhecer.
+A representação de um pacote é um ícone frequentemente utilizado para representar uma pasta em um sistema de arquivos. Permitem que a relação entre os elementos possam ser representadas. Diagramas de classes podem ter classes que trabalham em conjunto agrupas via diagrama de pacotes. Na programa de um sistema um pacote pode ser visto com um namaspace pois contém vários elementos que um sistema deve conhecer.
 
 
 [Voltar ao sumário](#sumário)<br>
