@@ -454,7 +454,7 @@ Neste exemplo a ligação importa permite que um pacote importe funcionalidades 
 
 ## 4.7. Diagrama de implantação
 
-Página em construção...
+
 
 
 [Voltar ao sumário](#sumário)<br>
