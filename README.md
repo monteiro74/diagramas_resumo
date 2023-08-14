@@ -436,6 +436,11 @@ Outro exemplo:
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/pacotes3.png" alt="Pacotes" style="height: 180px; width:400px;"/>
 
+
+Neste exemplo a ligação importa permite que um pacote importe funcionalidades de outro, no outro exemplo, acesso significar que um pacote necessita de ajuda de outro pacote.
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/pacotes4.png" alt="Pacotes" style="height: 170px; width:380px;"/>
+
 [Voltar ao sumário](#sumário)<br>
 
 
