@@ -342,7 +342,7 @@ A linha do tempo corre na vertical a partir de cada objeto. A linha do tempo de 
 As linhas entre as linhas de tempo ou linhas de vida são conectadas via mensagens, as mensagens são as linhas horizontais.
 
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/atividades1.png" alt="Modificador de acesso" style="height: 400px; width:330px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/diagrama_de_sequencia1.png" alt="Modificador de acesso" style="height: 380px; width:400px;"/>
 
 
 [Voltar ao sumário](#sumário)<br>
