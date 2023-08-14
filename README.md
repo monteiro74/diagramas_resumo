@@ -428,6 +428,9 @@ A representação de um pacote é um ícone frequentemente utilizado para repres
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/pacote1.png" alt="Pacote" style="height: 80px; width:100px;"/>
 
+Outro exemplo:
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/pacotes2.png" alt="Pacotes" style="height: 250px; width:400px;"/>
 
 [Voltar ao sumário](#sumário)<br>
 
