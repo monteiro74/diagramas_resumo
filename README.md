@@ -7,6 +7,9 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 
 [1 Definições](#1-Definições)<br>
 [2 DER](#2-der) <br>
+[2.1. Entidade](#21-entidade)<br>
+[2.2. Atributos](#22-atributos)<br>
+[2.3. Relacionamentos](#23-relacionamentos)<br>
 [3 DFD](#3-dfd) <br>
 [4 UML](#4-uml) <br>
 [4.1. Diagrama de classes](#41-diagrama-de-classes)<br>
