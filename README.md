@@ -454,7 +454,7 @@ Neste exemplo a ligação importa permite que um pacote importe funcionalidades 
 
 ## 4.7. Diagrama de implantação
 
-
+O diagrama de implantação (ou Deployment diagram) é uma modelagem física dos componentes do sistema sobre os nós necessários para sua execução. Os nós aparecem como caixas (ou cubos) e cada artefato de software que irá funcionar dentro do nó recebe um retângulo. Um nó pode ter muitos artefatos no seu interior. Este diagrama mostra onde o sistema irá ser implantado (fisicamente), ou seja, qual é a arquitetura de execução. 
 
 
 [Voltar ao sumário](#sumário)<br>
