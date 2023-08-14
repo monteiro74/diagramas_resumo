@@ -426,6 +426,7 @@ O diagrama de pacote é um diagrama estrutural que mostra a organização de vá
 
 A representação de um pacote é um ícone frequentemente utilizado para representar uma pasta em um sistema de arquivos. Permitem que a relação entre os elementos possam ser representadas. Diagramas de classes podem ter classes que trabalham em conjunto agrupas via diagrama de pacotes. Na programa de um sistema um pacote pode ser visto com um namaspace pois contém vários elementos que um sistema deve conhecer.
 
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/pacote1.png" alt="Portas" style="height: 90px; width:330px;"/>
 
 [Voltar ao sumário](#sumário)<br>
 
