@@ -456,6 +456,12 @@ Neste exemplo a ligação importa permite que um pacote importe funcionalidades 
 
 O diagrama de implantação (ou Deployment diagram) é uma modelagem física dos componentes do sistema sobre os nós necessários para sua execução. Os nós aparecem como caixas (ou cubos) e cada artefato de software que irá funcionar dentro do nó recebe um retângulo. Um nó pode ter muitos artefatos no seu interior. Este diagrama mostra onde o sistema irá ser implantado (fisicamente), ou seja, qual é a arquitetura de execução. 
 
+Os nós podem abstrair vários elementos físicos como processador, dispositivos, memória, etc. Os nós podem possuir estados e representar uma determinado valor ou uma condição especial de execução do sistema. Os artefatos de software são alocados dentro dos nós. Nós também podem receber informações sobre números IPs, rede, DMS, etc.
+
+Os diagramas de implantação também podem representar a topologia da rede, ou seja, a representação geográfica dos computadores necessários para operar o sistema. Apresentam os nós que são necessário em **run time**. 
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/deploy1.png" alt="Pacotes" style="height: 170px; width:380px;"/>
+
 
 [Voltar ao sumário](#sumário)<br>
 
