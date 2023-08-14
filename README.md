@@ -460,7 +460,7 @@ Os nós podem abstrair vários elementos físicos como processador, dispositivos
 
 Os diagramas de implantação também podem representar a topologia da rede, ou seja, a representação geográfica dos computadores necessários para operar o sistema. Apresentam os nós que são necessário em **run time**. 
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/deploy1.png" alt="Implementacao" style="height: 250px; width:450px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/deploy1.png" alt="Implementacao" style="height: 220px; width:450px;"/>
 
 
 [Voltar ao sumário](#sumário)<br>
