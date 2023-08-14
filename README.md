@@ -319,7 +319,7 @@ São diagramas que representam o estado dinâmico de um sistema, ou seja, repres
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/atividades1.png" alt="Modificador de acesso" style="height: 400px; width:330px;"/>
 
-
+Uma das vantagens desse diagrama é que ele é bem popular além da engenharia de software e dos círculos de análise de sistemas, o fluxograma é um conceito bem difundido, podendo ser usando para representar a lógica de um algoritmo até os passos de uma tarefa administrativa. Pode ser usado por programadores para representar o que ocorre dentro de um caso de uso.
 
 [Voltar ao sumário](#sumário)<br>
 
