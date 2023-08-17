@@ -482,7 +482,28 @@ Prezados alunos... fiquem longe disso !
 [Voltar ao sumário](#sumário)<br>
 
 
+---
+## Criando diagramas em páginas do github:
 
+```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+O resultado será este:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 ---
 # 5 BPMN
@@ -581,35 +602,4 @@ https://github.com/monteiro74/diagramas_resumo/graphs/traffic<BR>
 
 [Voltar ao sumário](#sumário)<br>
 
----
-Teste de diagramas feitos diretamente no github
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-outro exemplo com blocos:
-
-<div class="warning">
-<p><em>here be dragons</em></p>
-</div>
-
------------
-
-├── [plugins]<br>
-│  └── README.md<br>
-├── CHANGELOG.md <br>
-└── README.md<br>
-
-```mermaid
-stateDiagram
-    [*] --> First
-    state First {
-        [*] --> second
-        second --> [*]
-    }
-```
