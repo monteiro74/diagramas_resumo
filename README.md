@@ -600,8 +600,8 @@ outro exemplo com blocos:
 
 -----------
 
-├── [plugins]
-│  └── README.md
+├── [plugins]<br>
+│  └── README.md<br>
 ├── CHANGELOG.md
 └── README.md
 
