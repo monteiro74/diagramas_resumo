@@ -1,6 +1,8 @@
 # Breve resumo de diagramas
 
-Uma breve compilação de material (curadoria de conteúdo digital) sobre diversos diagramas utilizados na disciplina de engenharia de software, projeto de software, arquitetura de sistemas e bancos de dados. "Resumo dos diagramas mais comuns" que usamos nestas disciplinas. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. Este material esta em construção.
+Uma breve compilação de material (curadoria de conteúdo digital) sobre diversos diagramas utilizados na disciplina de engenharia de software, projeto de software, arquitetura de sistemas e bancos de dados. "Resumo dos diagramas mais comuns" que usamos nestas disciplinas. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. Este material esta em construção. 
+
+Em alguns diagramas foram utilizados os exemplos da biblioteca [Mermeid](https://mermaid.js.org/intro/), para inserir desenho nesta página github.
 
 
 # Sumário:
@@ -347,8 +349,14 @@ Permite que sejam modeladas as colaborações entre instânicas de objetos (que 
 [Voltar ao sumário](#sumário)<br>
 
 
+Diagrama de sequência inserido no github usando a biblioteca mermeid:
 
-
+```mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+```
 
 
 
@@ -500,6 +508,26 @@ graph TD;
 Exemplo 2:
 
 ```mermaid
+---
+title: Example Git diagram
+---
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
+```
+
+Exemplo 3:
+
+
+```mermaid
 stateDiagram
     [*] --> First
     state First {
@@ -508,8 +536,15 @@ stateDiagram
     }
 ```
 
+Exemplo 4:
 
 
+```mermaid
+gitGraph
+       commit id: "Alpha"
+       commit id: "Beta"
+       commit id: "Gamma"
+```
 
 
 ---
