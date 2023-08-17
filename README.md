@@ -605,3 +605,11 @@ outro exemplo com blocos:
 ├── CHANGELOG.md <br>
 └── README.md<br>
 
+```mermaid
+stateDiagram
+    [*] --> First
+    state First {
+        [*] --> second
+        second --> [*]
+    }
+```
