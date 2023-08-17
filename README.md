@@ -594,10 +594,7 @@ graph TD;
 
 outro exemplo com blocos:
 
-::: mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-:::
+@startuml
+Bob -[#red]> Alice : hello
+Alice -[#0000FF]->Bob : ok
+@enduml
