@@ -591,3 +591,13 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+outro exemplo com blocos:
+
+::: mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+:::
