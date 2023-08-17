@@ -581,3 +581,13 @@ https://github.com/monteiro74/diagramas_resumo/graphs/traffic<BR>
 
 [Voltar ao sumário](#sumário)<br>
 
+---
+Teste de diagramas feitos diretamente no github
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
