@@ -469,7 +469,7 @@ Os diagramas de implantação também podem representar a topologia da rede, ou 
 
 
 ---
-## Fundamental Modeling Concepts (FMC)
+## 5 Fundamental Modeling Concepts (FMC)
 
 http://www.fmc-modeling.org/home
 
@@ -483,7 +483,7 @@ Prezados alunos... fiquem longe disso !
 
 
 ---
-## Criando diagramas em páginas do github:
+## 6 Criando diagramas em páginas do github:
 
 
 
@@ -497,15 +497,30 @@ graph TD;
     C-->D;
 ```
 
+Exemplo 2:
+
+```mermaid
+stateDiagram
+    [*] --> First
+    state First {
+        [*] --> second
+        second --> [*]
+    }
+```
+
+
+
+
+
 ---
-# 5 BPMN
+# 7 BPMN
 
 Página em construção...
 
 [Voltar ao sumário](#sumário)<br>
 
 ---
-# 6 Gantt
+# 8 Gantt
 
 Página em construção...
 
@@ -513,14 +528,14 @@ Página em construção...
 
 
 ---
-# 7 Kanban
+# 9 Kanban
 
 Página em construção...
 
 [Voltar ao sumário](#sumário)<br>
 
 ---
-# Referências recomendadas
+# 10 Referências
 
 
 [Voltar ao sumário](#sumário)<br>
