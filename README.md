@@ -602,6 +602,6 @@ outro exemplo com blocos:
 
 ├── [plugins]<br>
 │  └── README.md<br>
-├── CHANGELOG.md
-└── README.md
+├── CHANGELOG.md <br>
+└── README.md<br>
 
