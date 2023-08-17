@@ -2,7 +2,7 @@
 
 Uma breve compilação de material (curadoria de conteúdo digital) sobre diversos diagramas utilizados na disciplina de engenharia de software, projeto de software, arquitetura de sistemas e bancos de dados. "Resumo dos diagramas mais comuns" que usamos nestas disciplinas. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. Este material esta em construção. 
 
-Em alguns diagramas foram utilizados os exemplos da biblioteca [Mermeid](https://mermaid.js.org/intro/), para inserir desenho nesta página github.
+
 
 
 # Sumário:
@@ -589,12 +589,14 @@ Página em construção...
 Critérios para os diagramas entrar nesta lista:
 1. São materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados.
 2. Material foi ou poderá ser usado em sala de aula.
+3. Em alguns diagramas foram utilizados os exemplos da 
+biblioteca [Mermeid](https://mermaid.js.org/intro/), para inserir desenho nesta página github.
 ```
 
 
 
 ---
-# Avisos, licença, observações, estatísticas
+## Avisos, licença, observações, estatísticas
 
 
 
@@ -604,7 +606,10 @@ Primeira postagem em: 17/jun/2023.
 Última atualização em: 13/agosto/2023.
 Se desejar conhecer outras ferramentas para desenvolvimento de software, consulte a página: https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 ```
-Lista de ferramentas: https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
+
+---
+## Lista de ferramentas
+ https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 
 
 ```
