@@ -594,7 +594,14 @@ graph TD;
 
 outro exemplo com blocos:
 
-@startuml
-Bob -[#red]> Alice : hello
-Alice -[#0000FF]->Bob : ok
-@enduml
+<div class="warning">
+<p><em>here be dragons</em></p>
+</div>
+
+-----------
+
+├── [plugins]
+│  └── README.md
+├── CHANGELOG.md
+└── README.md
+
