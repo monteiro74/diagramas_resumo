@@ -485,17 +485,9 @@ Prezados alunos... fiquem longe disso !
 ---
 ## Criando diagramas em páginas do github:
 
-```
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
 
-O resultado será este:
+Exemplo 1:
 
 ```mermaid
 graph TD;
