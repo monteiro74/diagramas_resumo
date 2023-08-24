@@ -565,7 +565,7 @@ Página em construção...
 ---
 # 9 Kanban
 
-Página em construção...
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/kanban.png" alt="Kanban" style="height: 220px; width:450px;"/>
 
 [Voltar ao sumário](#sumário)<br>
 
