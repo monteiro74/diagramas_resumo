@@ -509,7 +509,7 @@ Exemplo 2:
 
 ```mermaid
 ---
-title: Example Git diagram
+title: Exemplo de diagrama Git
 ---
 gitGraph
    commit
@@ -529,10 +529,10 @@ Exemplo 3:
 
 ```mermaid
 stateDiagram
-    [*] --> First
-    state First {
-        [*] --> second
-        second --> [*]
+    [*] --> Primeiro
+    state Primeiro {
+        [*] --> segundo
+        segundo --> [*]
     }
 ```
 
