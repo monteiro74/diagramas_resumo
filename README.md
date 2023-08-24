@@ -22,10 +22,12 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 [4.5.1. Interfaces](#451-interfaces)<br>
 [4.6. Diagrama de pacotes](#46-diagrama-de-pacotes)<br>
 [4.7. Diagrama de implantação](#47-diagrama-de-implantação)<br>
-[5 BPMN](#5-bpmn) <br>
-[6 Gantt](#6-gantt) <br>
-[7 Kanban](#7-kanban) <br>
-[Referências](#Referências) <br>
+[5. FMC](#5-fundamental-modeling-concepts-fmc) <br>
+[6. Criando diagramas direto no github ](#6-criando-diagramas-em-páginas-do-github) <br>
+[7. BPMN](#7-bpmn) <br>
+[8. Gantt](#8-gantt)<br>
+[9. Kanban](#9-kanban)<br>
+[10. Referências](#10-referências) <br>
 
 
 
