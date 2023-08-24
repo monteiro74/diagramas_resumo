@@ -353,9 +353,9 @@ Diagrama de sequência inserido no github usando a biblioteca mermeid:
 
 ```mermaid
 sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-    Alice-)John: See you later!
+    Ana->>Bob: Oi Bob, Como estas?
+    Bob-->>Ana: Bem!
+    Ana-)Bob: Até mais!
 ```
 
 
