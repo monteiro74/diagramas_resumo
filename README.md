@@ -605,7 +605,7 @@ biblioteca [Mermeid](https://mermaid.js.org/intro/), para inserir desenho nesta 
 ```
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 Primeira postagem em: 17/jun/2023. 
-Última atualização em: 13/agosto/2023.
+Última atualização em: 24/agosto/2023.
 Se desejar conhecer outras ferramentas para desenvolvimento de software, consulte a página: https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 ```
 
