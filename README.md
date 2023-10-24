@@ -26,8 +26,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 [6. Criando diagramas direto no github ](#6-criando-diagramas-em-páginas-do-github) <br>
 [7. BPMN](#7-bpmn) <br>
 [8. Gantt](#8-gantt)<br>
-[9. Kanban](#9-kanban)<br>
-[10. Referências](#10-referências) <br>
+[9. Referências](#10-referências) <br>
 
 
 
