@@ -494,7 +494,7 @@ Prezados alunos... fiquem longe disso !
 ---
 ## 6 Criando diagramas em páginas do github:
 
-
+Exemplos de diagramas criado diretamente com markdown.
 
 Exemplo 1:
 
@@ -527,7 +527,6 @@ gitGraph
 
 Exemplo 3:
 
-
 ```mermaid
 stateDiagram
     [*] --> Primeiro
@@ -538,7 +537,6 @@ stateDiagram
 ```
 
 Exemplo 4:
-
 
 ```mermaid
 gitGraph
@@ -551,7 +549,7 @@ gitGraph
 ---
 # 7 BPMN
 
-Página em construção...
+É um padrão para modelagem de processos de negócios. Permitem que os colaboradores envolvidos possa visualizar o processo como um todo via uma representação visual/gráfica similar ao um fluxograma. É um diagrama representado por uma sequência de passos a partir de um início até um fim. Cada etapa é representada por um retângulo (com pontas arredondadas). O BPMN não faz parte da UML. Mas podem ser utilizados em conjunto para representar diferentes aspectos de um processo de negócio. Um DFD pode ser parecido com um BPMN, porém os DFD possuem 4 elementos como processo: fluxo, armazenamento e entidade externo, já  anotação BPMN permite que se usem diversos fluxo e elementos.
 
 [Voltar ao sumário](#sumário)<br>
 
