@@ -552,7 +552,9 @@ gitGraph
 É um padrão para modelagem de processos de negócios. Permitem que os colaboradores envolvidos possa visualizar o processo como um todo via uma representação visual/gráfica similar ao um fluxograma. É um diagrama representado por uma sequência de passos a partir de um início até um fim. Cada etapa é representada por um retângulo (com pontas arredondadas). O BPMN não faz parte da UML. Mas podem ser utilizados em conjunto para representar diferentes aspectos de um processo de negócio. Um DFD pode ser parecido com um BPMN, porém os DFD possuem 4 elementos como processo, fluxo, armazenamento e entidade externo), já  anotação BPMN permite que se usem diversos fluxo e elementos.
 
 
-Exemplo 3:
+Exemplo:
+
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/BPMN.jpg" alt="Pacote" style="height: 682px; width:472px;"/>
 
 
 
