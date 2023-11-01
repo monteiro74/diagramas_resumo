@@ -25,8 +25,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 [5. FMC](#5-fundamental-modeling-concepts-fmc) <br>
 [6. Criando diagramas direto no github ](#6-criando-diagramas-em-páginas-do-github) <br>
 [7. BPMN](#7-bpmn) <br>
-[8. Gantt](#8-gantt)<br>
-[9. Referências](#10-referências) <br>
+[8. Referências](#8-referências) <br>
 
 
 
@@ -571,16 +570,10 @@ Exemplo:
 
 [Voltar ao sumário](#sumário)<br>
 
----
-# 8 Gantt
-
-Página em construção...
-
-[Voltar ao sumário](#sumário)<br>
 
 
 ---
-# 9 Referências
+# 8 Referências
 
 
 [Voltar ao sumário](#sumário)<br>
