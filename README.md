@@ -567,7 +567,7 @@ Exemplo:
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/BPMN.jpg" alt="Pacote" style="height: 472px; width:682px;"/>
 
 
-
+[Página oficial da notação BPMN](https://www.omg.org/spec/BPMN/2.0/)
 
 [Voltar ao sumário](#sumário)<br>
 
