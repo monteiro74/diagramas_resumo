@@ -549,16 +549,17 @@ gitGraph
 ---
 # 7 BPMN
 
-É um padrão para modelagem de processos de negócios. Permitem que os colaboradores envolvidos possa visualizar o processo como um todo via uma representação visual/gráfica similar ao um fluxograma. É um diagrama representado por uma sequência de passos a partir de um início até um fim. Cada etapa é representada por um retângulo (com pontas arredondadas). O BPMN não faz parte da UML. Mas podem ser utilizados em conjunto para representar diferentes aspectos de um processo de negócio. Um DFD pode ser parecido com um BPMN, porém os DFD possuem 4 elementos como processo, fluxo, armazenamento e entidade externo), já  anotação BPMN permite que se usem diversos fluxo e elementos.
+Significa Business Process Model and Notation (notação para modelagem de processo de negócios). É um padrão para modelagem de processos de negócios. Permitem que os colaboradores envolvidos possa visualizar o processo como um todo via uma representação visual/gráfica similar ao um fluxograma. É um diagrama representado por uma sequência de passos a partir de um início até um fim. Cada etapa é representada por um retângulo (com pontas arredondadas). O BPMN não faz parte da UML. Mas podem ser utilizados em conjunto para representar diferentes aspectos de um processo de negócio. Um DFD pode ser parecido com um BPMN, porém os DFD possuem 4 elementos como processo, fluxo, armazenamento e entidade externo), já  anotação BPMN permite que se usem diversos fluxo e elementos.
 
 | Símbolo    | Descrição |
 | -------- | ------- |
 | Círculo simples  | Início do processo   |
-| Retângulo com bordas arredondadas| Atividade     |
+| Retângulo com bordas arredondadas| Atividade, o que deve ser executado no processo     |
 | Círculo com bola preta | Fim do processo |
 | Losângulo | Decisão, bifurcação do processo |
 | Losângulo com cruz | bifurcação em paralelo |
-| Lane ou raia | São raias horizontais que representam a função ou papel que executa aquela atividade do processo |
+| Swimlane ou raia | São raias horizontais que representam a função ou papel que executa aquela atividade do processo |
+| linha com seta de ponta preta | Indica o fluxo de execução do processo, é o sentido que o processo anda |
 
 
 Exemplo:
