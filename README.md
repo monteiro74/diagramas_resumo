@@ -576,6 +576,12 @@ Exemplo:
 # 8 Referências
 
 
+Fonte sobre BPMN https://www.omg.org/spec/BPMN/2.0/
+
+Fonte sobre UML https://www.uml.org/
+
+
+
 [Voltar ao sumário](#sumário)<br>
 
 
