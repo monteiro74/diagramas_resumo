@@ -477,7 +477,7 @@ Os diagramas de implantação também podem representar a topologia da rede, ou 
 
 
 ---
-## 5 Fundamental Modeling Concepts (FMC)
+# 5 Fundamental Modeling Concepts (FMC)
 
 http://www.fmc-modeling.org/home
 
@@ -491,7 +491,7 @@ Prezados alunos... fiquem longe disso !
 
 
 ---
-## 6 Criando diagramas em páginas do github:
+# 6 Criando diagramas em páginas do github:
 
 Exemplos de diagramas criado diretamente com markdown.
 
@@ -579,6 +579,8 @@ Exemplo:
 Fonte sobre BPMN https://www.omg.org/spec/BPMN/2.0/
 
 Fonte sobre UML https://www.uml.org/
+
+Diagramas dentro de arquivos markdown https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ e https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
 
 
 
