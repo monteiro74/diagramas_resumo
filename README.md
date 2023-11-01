@@ -554,7 +554,7 @@ gitGraph
 
 Exemplo:
 
-<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/BPMN.jpg" alt="Pacote" style="height: 682px; width:472px;"/>
+<img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/BPMN.jpg" alt="Pacote" style="height: 472px; width:682px;"/>
 
 
 
