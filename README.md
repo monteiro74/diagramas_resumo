@@ -20,7 +20,7 @@ Uma breve compilação de material (curadoria de conteúdo digital) sobre divers
 [4.4. Diagrama de sequência](#44-diagrama-de-sequência)<br>
 [4.5. Diagrama de componentes](#45-diagrama-de-componentes)<br>
 [4.5.1. Interfaces](#451-interfaces)<br>
-[4.5.2. Artefatos](#452-artefatos)
+[4.5.2. Artefatos](#452-artefatos)<br>
 [4.6. Diagrama de pacotes](#46-diagrama-de-pacotes)<br>
 [4.7. Diagrama de implantação](#47-diagrama-de-implantação)<br>
 [5. FMC](#5-fundamental-modeling-concepts-fmc) <br>
