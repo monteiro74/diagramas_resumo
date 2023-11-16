@@ -500,6 +500,14 @@ Prezados alunos... fiquem longe disso !
 
 Exemplos de diagramas criado diretamente com markdown.
 
+Todos os exemplos abaixo foram adaptados das seguintes fontes:
+* https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
+* https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
+* https://support.typora.io/Draw-Diagrams-With-Markdown/
+* https://mermaid.js.org/intro/
+* https://gist.github.com/blackcater/1701e845a963216541591106c1bb9d3b
+
+
 Exemplo 1:
 
 ```mermaid
@@ -550,12 +558,6 @@ gitGraph
 ```
 
 
-Todos os exemplos acima foram adaptados das seguintes fontes:
-* https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
-* https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
-* https://support.typora.io/Draw-Diagrams-With-Markdown/
-* https://mermaid.js.org/intro/
-* https://gist.github.com/blackcater/1701e845a963216541591106c1bb9d3b
 
 
 ---
