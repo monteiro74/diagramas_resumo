@@ -426,7 +426,7 @@ A representação de porta é feita por um quadrado da qual parte a ligação do
 
 ## 4.5.2. Artefatos
 
-São elementos que representam entidades físicas em um sistema de software. Por exemplo:
+São elementos que representam **entidades físicas** em um sistema de software. Por exemplo:
 
 * documento de texto
 * arquivo fonte
