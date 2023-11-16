@@ -61,7 +61,7 @@ Definição 3: Delineação; modo de representação feito através de gráficos
 Fonte: https://www.dicio.com.br/diagrama/
 
 
-O diagramas aqui apresentados permite que os sistemas possam ser estruturados de forma modular. A modularidade pode ser entendidade como:
+O diagramas aqui apresentados permitem que os sistemas possam ser estruturados de forma modular. A modularidade pode ser entendidade como:
 
 * É a separação dos elementos constitutivos de um corpo.
 * É a desagregação de seus componentes e estruturas menores.
