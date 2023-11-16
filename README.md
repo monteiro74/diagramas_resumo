@@ -71,6 +71,8 @@ O diagramas aqui apresentados permitem que os sistemas possam ser estruturados d
 
 Onde se aplica a modelagem visual:
 
+![Modelagem visual](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/modelagem_visual.png)
+
 
 [Voltar ao sumário](#sumário)<br>
 
