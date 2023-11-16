@@ -71,7 +71,7 @@ O diagramas aqui apresentados permite que os sistemas possam ser estruturados de
 ![Exemplo de modularidade](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/modularidade.png)
 
 
-[Sumário](#sumário)<br>
+[Voltar ao sumário](#sumário)<br>
 
 
 
