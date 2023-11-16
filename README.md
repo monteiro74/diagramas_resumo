@@ -69,6 +69,9 @@ O diagramas aqui apresentados permitem que os sistemas possam ser estruturados d
 ![Exemplo de modularidade](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/modularidade.png)
 
 
+Onde se aplica a modelagem visual:
+
+
 [Voltar ao sumário](#sumário)<br>
 
 
