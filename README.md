@@ -68,7 +68,7 @@ O diagramas aqui apresentados permite que os sistemas possam ser estruturados de
 * É a transformação do sistema em pequenas partes de forma que possam ser tratadas separadamente, porém continuam tendo suas funcionalidades mantidas para que o conjunto possa operar.
 * Permite que o sistema ou software possa ser divido em partes distintas.
 
-
+![Exemplo de modularidade](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/modularidade.png)
 
 
 [Sumário](#sumário)<br>
