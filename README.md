@@ -439,6 +439,7 @@ Um exemplo de um diagrama de artefatos:
 
 ![Exemplo de artefato](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/artefato.png)
 
+[Voltar ao sumário](#sumário)<br>
 
 ## 4.6. Diagrama de pacotes
 
