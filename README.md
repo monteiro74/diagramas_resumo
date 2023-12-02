@@ -147,7 +147,7 @@ As entidades são "**as coisas**" que queremos representar e guardar informaçõ
 
 ## 2.2 Atributos
 
-Os atributos dão características das entidades. São os elementos básicos que ajudam a formar e dar identidade às entidades. São os tijolos básicos das entidades e sua compreensão. Atributos também podem ser características de relações. <br>
+Os atributos dão características às entidades. São os elementos básicos que ajudam a formar e dar identidade às entidades. São os tijolos básicos das entidades e sua compreensão. Atributos também podem ser características de relações. <br>
 
 
 ```
