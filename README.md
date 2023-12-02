@@ -1,10 +1,34 @@
-# Breve resumo de diagramas
+# Breve resumo de diagramas para Engenharia de software
 
-Uma breve compilação de material (curadoria de conteúdo digital) sobre diversos diagramas utilizados na disciplina de engenharia de software, projeto de software, arquitetura de sistemas e bancos de dados. "Resumo dos diagramas mais comuns" que usamos nestas disciplinas. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. Este material esta em construção. 
-
-
+Uma breve compilação de material (curadoria de conteúdo digital) sobre diversos diagramas utilizados na disciplina de Engenharia de Software, projeto de software, arquitetura de sistemas e bancos de dados. "Resumo dos diagramas mais comuns" que usamos nestas disciplinas. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. 
 
 
+
+
+
+```
+Observação:
+Este material é o mínimo necessário nas áreas de: 
+a) engenharia de software;
+b) documentação de software;
+c) arquitetura de software e sistemas;
+d) modelagem visual de software.
+Este material esta em construção. 
+```
+
+---
+Como citar esta página em seus trabalhos, artigos ou outras referências:
+* Citação bibliográfica:
+```
+
+```
+* Citação bibtex:
+```
+
+```
+
+
+---
 # Sumário:
 
 [1 Definições](#1-Definições)<br>
