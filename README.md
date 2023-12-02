@@ -1,4 +1,4 @@
-# Breve resumo de diagramas para Engenharia de software
+# Breve resumo de diagrama
 
 Uma breve compilação de material (curadoria de conteúdo digital) sobre diversos diagramas utilizados na disciplina de Engenharia de Software, projeto de software, arquitetura de sistemas e bancos de dados. "Resumo dos diagramas mais comuns" que usamos nestas disciplinas. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. 
 
@@ -20,11 +20,19 @@ Este material esta em construção.
 Como citar esta página em seus trabalhos, artigos ou outras referências:
 * Citação bibliográfica:
 ```
-
+Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Software] https://github.com/monteiro74/diagramas_resumo. 
 ```
 * Citação bibtex:
 ```
-
+@misc{Monteiro2023,
+  author = {Emiliano Monteiro},
+  title = {Breve resumo de diagramas},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/monteiro74/diagramas_resumo}},
+  Notes = {Computer Software},
+}
 ```
 
 
