@@ -61,7 +61,7 @@ exemplo de caixa de texto
 ---
 # 1 Definições
 
-Um diagrama é um desenho mostrando um estrutura ou representação esquemática de algo (como uma máquina ou sistema), de forma a apresentar simplificadamente sua estrutura e/ou funcionamento. <br>
+Um diagrama é um desenho mostrando uma estrutura ou representação esquemática de algo (como uma máquina ou sistema), de forma a apresentar simplificadamente sua estrutura e/ou funcionamento. <br>
 
 Definição 1: *Diagrama é uma representação gráfica usada para demonstrar um esquema simplificado ou um resumo sobre um assunto*.<br>
 Fonte: https://www.significados.com.br/diagrama/
