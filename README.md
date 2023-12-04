@@ -16,24 +16,6 @@ d) modelagem visual de software.
 Este material esta em construção. 
 ```
 
----
-Como citar esta página em seus trabalhos, artigos ou outras referências:
-* Citação bibliográfica:
-```
-Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Software] https://github.com/monteiro74/diagramas_resumo. 
-```
-* Citação bibtex:
-```
-@misc{Monteiro2023,
-  author = {Emiliano Monteiro},
-  title = {Breve resumo de diagramas},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/monteiro74/diagramas_resumo}},
-  Notes = {Computer Software},
-}
-```
 
 
 ---
@@ -657,9 +639,30 @@ Fonte sobre UML https://www.uml.org/
 Diagramas dentro de arquivos markdown https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ e https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
 
 
-
 [Voltar ao sumário](#sumário)<br>
 
+---
+### Como citar esta página em seus trabalhos, artigos ou outras referências:
+
+#### 8.1 Citação bibliográfica:
+
+```
+Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Software] https://github.com/monteiro74/diagramas_resumo. 
+```
+
+#### 8.2 Citação bibtex:
+
+```
+@misc{Monteiro2023,
+  author = {Emiliano Monteiro},
+  title = {Breve resumo de diagramas},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/monteiro74/diagramas_resumo}},
+  Notes = {Computer Software},
+}
+```
 
 
 
