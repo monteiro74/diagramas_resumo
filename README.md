@@ -678,7 +678,7 @@ Critérios para os diagramas entrar nesta lista:
 biblioteca [Mermeid](https://mermaid.js.org/intro/), para inserir desenho nesta página github.
 ```
 
-
+[Voltar ao sumário](#sumário)<br>
 
 ---
 ## Avisos, licença, observações, estatísticas
@@ -692,6 +692,10 @@ Primeira postagem em: 17/jun/2023.
 Se desejar conhecer outras ferramentas para desenvolvimento de software, consulte a página: https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 ```
 
+[Voltar ao sumário](#sumário)<br>
+
+
+
 ---
 ## Lista de ferramentas
  https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
@@ -704,7 +708,10 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ```
 
-Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
+
+---
+### Histórico de atualizações nos repositórios do Prof. Monteiro<br>
+
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/diagramas_resumo)
 
 
