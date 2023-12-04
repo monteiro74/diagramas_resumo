@@ -650,7 +650,7 @@ Diagramas dentro de arquivos markdown https://github.blog/2022-02-14-include-dia
 Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Software] https://github.com/monteiro74/diagramas_resumo. 
 ```
 
-## 9.2 Citação bibtex:
+## 9.2 Citação bibtex para Latex:
 
 ```
 @misc{Monteiro2023,
@@ -667,8 +667,9 @@ Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Softwar
 ---
 # 10 Lista de ferramentas
 
-Lista de ferramentas:
- https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
+Lista de ferramentas para serem usados em laboratório:
+
+https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 
 
 
@@ -704,7 +705,7 @@ Se desejar conhecer outras ferramentas para desenvolvimento de software, consult
 [Voltar ao sumário](#sumário)<br>
 
 
-## 12.2 Licenças
+## 12.2 Licença
 
 ```
 Autor: Prof. Dr. Monteiro.
