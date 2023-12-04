@@ -544,11 +544,11 @@ Os diagramas de implantação também podem representar a topologia da rede, ou 
 ---
 # 5 Fundamental Modeling Concepts (FMC)
 
-http://www.fmc-modeling.org/home
+Site sobre FMC: http://www.fmc-modeling.org/home
 
 
 ```
-Dica: Não recomendo FMC no momento !
+Observação: Não recomendo FMC no momento !
 ```
 
 [Voltar ao sumário](#sumário)<br>
