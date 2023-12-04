@@ -548,8 +548,7 @@ http://www.fmc-modeling.org/home
 
 
 ```
-Dica: simplesmente não recomendo FMC no momento !
-Prezados alunos... fiquem longe disso !
+Dica: Não recomendo FMC no momento !
 ```
 
 [Voltar ao sumário](#sumário)<br>
