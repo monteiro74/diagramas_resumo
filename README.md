@@ -667,7 +667,7 @@ Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Softwar
 ---
 # 10 Lista de ferramentas
 
-Lista de ferramentas para serem usados em laboratório:
+Lista de ferramentas para serem usados conforme o caso:
 
 https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 
