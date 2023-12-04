@@ -642,15 +642,15 @@ Diagramas dentro de arquivos markdown https://github.blog/2022-02-14-include-dia
 [Voltar ao sumário](#sumário)<br>
 
 ---
-### Como citar esta página em seus trabalhos, artigos ou outras referências:
+# 9 Como citar esta página em seus trabalhos, artigos ou outras referências:
 
-#### 8.1 Citação bibliográfica:
+## 9.1 Citação bibliográfica:
 
 ```
 Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Software] https://github.com/monteiro74/diagramas_resumo. 
 ```
 
-#### 8.2 Citação bibtex:
+## 9.2 Citação bibtex:
 
 ```
 @misc{Monteiro2023,
@@ -664,13 +664,19 @@ Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Softwar
 }
 ```
 
+---
+# 10 Lista de ferramentas
+
+Lista de ferramentas:
+ https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
+
 
 
 
 
 
 ---
-## Comentários finais 
+# 11 Comentários finais 
 
 
 ```
@@ -684,10 +690,10 @@ biblioteca [Mermeid](https://mermaid.js.org/intro/), para inserir desenho nesta 
 [Voltar ao sumário](#sumário)<br>
 
 ---
-## Avisos, licença, observações, estatísticas
+# 12 Avisos, licença, estatísticas...
 
 
-
+## 12.1 Avisos
 ```
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 Primeira postagem em: 17/jun/2023. 
@@ -698,11 +704,7 @@ Se desejar conhecer outras ferramentas para desenvolvimento de software, consult
 [Voltar ao sumário](#sumário)<br>
 
 
-
----
-## Lista de ferramentas
- https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
-
+## 12.2 Licenças
 
 ```
 Autor: Prof. Dr. Monteiro.
@@ -712,8 +714,14 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 ```
 
 
+[Voltar ao sumário](#sumário)<br>
+
+
+
+
+
 ---
-### Histórico de atualizações nos repositórios do Prof. Monteiro<br>
+### 12.3 Estatísticas do repositórios do Prof. Monteiro<br>
 
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/diagramas_resumo)
 
