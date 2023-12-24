@@ -19,28 +19,40 @@ Este material esta em construção.
 
 
 ---
-# Sumário:
+# Sumário
 
-[1 Definições](#1-Definições)<br>
-[2 DER](#2-der) <br>
-[2.1. Entidade](#21-entidade)<br>
-[2.2. Atributos](#22-atributos)<br>
-[2.3. Relacionamentos](#23-relacionamentos)<br>
-[3 DFD](#3-dfd) <br>
-[4 UML](#4-uml) <br>
-[4.1. Diagrama de classes](#41-diagrama-de-classes)<br>
-[4.2. Diagrama de casos de uso](#42-diagrama-de-casos-de-uso)<br>
-[4.3. Diagrama de atividades](#43-diagrama-de-atividades)<br>
-[4.4. Diagrama de sequência](#44-diagrama-de-sequência)<br>
-[4.5. Diagrama de componentes](#45-diagrama-de-componentes)<br>
-[4.5.1. Interfaces](#451-interfaces)<br>
-[4.5.2. Artefatos](#452-artefatos)<br>
-[4.6. Diagrama de pacotes](#46-diagrama-de-pacotes)<br>
-[4.7. Diagrama de implantação](#47-diagrama-de-implantação)<br>
-[5. FMC](#5-fundamental-modeling-concepts-fmc) <br>
-[6. Criando diagramas direto no github ](#6-criando-diagramas-em-páginas-do-github) <br>
-[7. BPMN](#7-bpmn) <br>
-[8. Referências](#8-referências) <br>
+- [Breve resumo de diagramas](#breve-resumo-de-diagramas)
+- [Sumário](#sumário)
+- [1. Definições](#1-definições)
+- [2. DER](#2-der)
+  - [2.1. Entidade](#21-entidade)
+  - [2.2. Atributos](#22-atributos)
+  - [2.3. Relacionamentos](#23-relacionamentos)
+- [3. DFD](#3-dfd)
+- [4. UML](#4-uml)
+  - [4.1. Diagrama de classes](#41-diagrama-de-classes)
+  - [4.2. Diagrama de casos de uso](#42-diagrama-de-casos-de-uso)
+  - [4.3. Diagrama de atividades](#43-diagrama-de-atividades)
+  - [4.4. Diagrama de sequência](#44-diagrama-de-sequência)
+  - [4.5. Diagrama de componentes](#45-diagrama-de-componentes)
+    - [4.5.1. Interfaces](#451-interfaces)
+    - [4.5.2. Artefatos](#452-artefatos)
+  - [4.6. Diagrama de pacotes](#46-diagrama-de-pacotes)
+  - [4.7. Diagrama de implantação](#47-diagrama-de-implantação)
+- [5. Fundamental Modeling Concepts (FMC)](#5-fundamental-modeling-concepts-fmc)
+- [6. Criando diagramas em páginas do github:](#6-criando-diagramas-em-páginas-do-github)
+- [7. BPMN](#7-bpmn)
+- [8. Referências](#8-referências)
+- [9. Como citar esta página em seus trabalhos, artigos ou outras referências:](#9-como-citar-esta-página-em-seus-trabalhos-artigos-ou-outras-referências)
+  - [9.1. Citação bibliográfica:](#91-citação-bibliográfica)
+  - [9.2. Citação bibtex para Latex:](#92-citação-bibtex-para-latex)
+- [10. Lista de ferramentas](#10-lista-de-ferramentas)
+- [11. Comentários finais](#11-comentários-finais)
+- [12. Avisos, licença, estatísticas...](#12-avisos-licença-estatísticas)
+  - [12.1. Avisos](#121-avisos)
+  - [12.2. Licença](#122-licença)
+  - [12.3. Estatísticas do repositórios do Prof. Monteiro](#123-estatísticas-do-repositórios-do-prof-monteiro)
+
 
 
 
@@ -59,7 +71,7 @@ exemplo de caixa de texto
 
 
 ---
-# 1 Definições
+# 1. Definições
 
 Um diagrama é um desenho mostrando uma estrutura ou representação esquemática de algo (como uma máquina ou sistema), de forma a apresentar simplificadamente sua estrutura e/ou funcionamento. <br>
 
@@ -95,7 +107,7 @@ Onde se aplica a modelagem visual:
 
 
 ---
-# 2 DER
+# 2. DER
 
 O Diagrama de Entidade Relacionamento (DER), é um tipo de diagrama que apresenta as entidades de um sistema; estas entidades são conectadas por relacionamentos, as entidades possuem internamente atributos. Este diagrama é utilizado para modelar bancos de dados, também pode representar regras de negócio utilizadas pelas empresas. Também permite perceber as conexões lógicas entre "as coisas" com as quais se deseja representar informações. O criado deste diagrama é o Professor Peter Chen ([Peter Pin-Shan Chen](https://en.wikipedia.org/wiki/Peter_Chen)) na década de 1970 naSloan School of Management no MIT publicado em “*The Entity-Relationship Model: Toward a Unified View of Data*". O trabalho de DER contribuiu para o modelo de Classes e posteriormente com a UML. <br>
 
@@ -110,7 +122,7 @@ Na figura abaixo temos 3 exemplos, esta figura esta dividida ao meio, prefira as
 [Voltar ao sumário](#sumário)<br>
 
 
-## 2.1 Entidade
+## 2.1. Entidade
 
 
 As entidades são "**as coisas**" que queremos representar e guardar informações sobre. São exemplos de entidades carros, objetos, lugares, pessoas, veículos, etc. As entidades são representadas por um retângulo com seu nome no centro. Na figura abaixo temos várias formas de notação diferentes para representar uma entidade.<br>
@@ -127,7 +139,7 @@ As entidades são "**as coisas**" que queremos representar e guardar informaçõ
 
 
 
-## 2.2 Atributos
+## 2.2. Atributos
 
 Os atributos dão características às entidades. São os elementos básicos que ajudam a formar e dar identidade às entidades. São os tijolos básicos das entidades e sua compreensão. Atributos também podem ser características de relações. <br>
 
@@ -156,7 +168,7 @@ Recomendamos representar os atributos dentro do retângulo das entidades, separa
 
 
 
-## 2.3 Relacionamentos
+## 2.3. Relacionamentos
 
 A forma como uma entidade se conecta com outra, ou seja, a forma como uma entidade (ou objeto ou "**coisa**") esta associada com outras deve ser representada por uma ligação. Esta ligação é chamada de relacionamento. Basicamente uma relação pode ser representada por uma linha simples, interligando as entidades. <br>
 
@@ -198,7 +210,7 @@ Que tal desenha o mais informal possível ? Objetivando apenas representar as en
 
 
 ---
-# 3 DFD
+# 3. DFD
 
 
 O Diagrama de Fluxo de Dados (DFD) é uma forma de representação das principais funções de um sistema e movimentação de dados entre estas funções, saíde de entidades e arquivos (ou bancos de dados). O DFD foi desenvolvido e popularizado na década de 70, onde ainda era comum a utilização de arquivos para o armazenamento de dados. Os principais desenvolvedores e promotores deste tipo de diagrama são: Edward Yourdon, Larry Constantine, Tom DeMarco, Chris Gane and Trish Sarson.
@@ -227,7 +239,7 @@ Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
 
 
 ---
-# 4 UML
+# 4. UML
 
 Unified Modeling Language (UML, ou linguagem de modelagem unificada), é um componente da engenharia de software como ferramenta de diagramação e modelagem de sistemas principalmente orientados a objetos. Outros tipos de sistemas como estruturados, real-time também podem ser modelados com UML (apesar de este não ser seu foco principal). A UML é divida em vários diagramas que abordam aspectos dinâmicos e estáricos da visão estrutural de um sistema.  A UML surgiu  na década de 1990 pelo Object Management Group (OMG).
 
@@ -282,7 +294,7 @@ flowchart
 
 **Os mais interessantes e populares são os citados a seguir:**
 
-## 4.1 Diagrama de classes
+## 4.1. Diagrama de classes
 
 O diagrama de classe são o pilar da UML e dos projetos OO. A classe é um retângulo dividido em 3 partes (nome da classe, atributos(características ou campos) e métodos (procedimentos ou funções)). O diagrama de classes e subclasses são associadas via uma relação (similar ao DER (diagrama entidade relacionemnto)) permitindo apresentar os componentes estáticos de um sistema, esquematizando estruturas de dados poderão ser implementadas na forma de tabelas em um banco e como funções de aplicações.
 
@@ -452,7 +464,7 @@ A representação de porta é feita por um quadrado da qual parte a ligação do
 
 
 
-## 4.5.2. Artefatos
+### 4.5.2. Artefatos
 
 São elementos que representam **entidades físicas** em um sistema de software. Por exemplo:
 
@@ -524,7 +536,7 @@ Os diagramas de implantação também podem representar a topologia da rede, ou 
 
 
 ---
-# 5 Fundamental Modeling Concepts (FMC)
+# 5. Fundamental Modeling Concepts (FMC)
 
 Site sobre FMC: http://www.fmc-modeling.org/home
 
@@ -537,7 +549,7 @@ Observação: Não recomendo FMC no momento !
 
 
 ---
-# 6 Criando diagramas em páginas do github:
+# 6. Criando diagramas em páginas do github:
 
 Exemplos de diagramas criado diretamente com markdown.
 
@@ -602,7 +614,7 @@ gitGraph
 
 
 ---
-# 7 BPMN
+# 7. BPMN
 
 Significa Business Process Model and Notation (notação para modelagem de processo de negócios). É um padrão para modelagem de processos de negócios. Permitem que os colaboradores envolvidos possa visualizar o processo como um todo via uma representação visual/gráfica similar ao um fluxograma. É um diagrama representado por uma sequência de passos a partir de um início até um fim. Cada etapa é representada por um retângulo (com pontas arredondadas). O BPMN não faz parte da UML. Mas podem ser utilizados em conjunto para representar diferentes aspectos de um processo de negócio. Um DFD pode ser parecido com um BPMN, porém os DFD possuem 4 elementos como processo, fluxo, armazenamento e entidade externo), já  anotação BPMN permite que se usem diversos fluxo e elementos.
 
@@ -629,7 +641,7 @@ Exemplo:
 
 
 ---
-# 8 Referências
+# 8. Referências
 
 
 Fonte sobre BPMN https://www.omg.org/spec/BPMN/2.0/
@@ -642,15 +654,15 @@ Diagramas dentro de arquivos markdown https://github.blog/2022-02-14-include-dia
 [Voltar ao sumário](#sumário)<br>
 
 ---
-# 9 Como citar esta página em seus trabalhos, artigos ou outras referências:
+# 9. Como citar esta página em seus trabalhos, artigos ou outras referências:
 
-## 9.1 Citação bibliográfica:
+## 9.1. Citação bibliográfica:
 
 ```
 Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Software] https://github.com/monteiro74/diagramas_resumo. 
 ```
 
-## 9.2 Citação bibtex para Latex:
+## 9.2. Citação bibtex para Latex:
 
 ```
 @misc{Monteiro2023,
@@ -665,7 +677,7 @@ Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Softwar
 ```
 
 ---
-# 10 Lista de ferramentas
+# 10. Lista de ferramentas
 
 Lista de ferramentas para serem usados conforme o caso:
 
@@ -677,7 +689,7 @@ https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 
 
 ---
-# 11 Comentários finais 
+# 11. Comentários finais 
 
 
 ```
@@ -691,10 +703,10 @@ biblioteca [Mermeid](https://mermaid.js.org/intro/), para inserir desenho nesta 
 [Voltar ao sumário](#sumário)<br>
 
 ---
-# 12 Avisos, licença, estatísticas...
+# 12. Avisos, licença, estatísticas...
 
 
-## 12.1 Avisos
+## 12.1. Avisos
 ```
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 Primeira postagem em: 17/jun/2023. 
@@ -705,7 +717,7 @@ Se desejar conhecer outras ferramentas para desenvolvimento de software, consult
 [Voltar ao sumário](#sumário)<br>
 
 
-## 12.2 Licença
+## 12.2. Licença
 
 ```
 Autor: Prof. Dr. Monteiro.
@@ -722,7 +734,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ---
-### 12.3 Estatísticas do repositórios do Prof. Monteiro<br>
+## 12.3. Estatísticas do repositórios do Prof. Monteiro<br>
 
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/diagramas_resumo)
 
