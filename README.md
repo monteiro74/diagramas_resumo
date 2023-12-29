@@ -560,6 +560,10 @@ Todos os exemplos abaixo foram adaptados das seguintes fontes:
 * https://mermaid.js.org/intro/
 * https://gist.github.com/blackcater/1701e845a963216541591106c1bb9d3b
 
+Outros exemplos:
+
+* https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
+* https://support.typora.io/Draw-Diagrams-With-Markdown/
 
 Exemplo 1:
 
