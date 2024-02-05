@@ -206,9 +206,6 @@ Que tal desenha o mais informal possível ? Objetivando apenas representar as en
 
 
 
-
-
-
 ---
 # 3. DFD
 
@@ -614,7 +611,8 @@ gitGraph
        commit id: "Gamma"
 ```
 
-
+Outras formas de montar diagramas dentro de páginas markdown:
+https://github.com/JakeSteam/Mermaid/blob/main/entity-relationship.md
 
 
 ---
