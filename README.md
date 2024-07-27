@@ -392,7 +392,7 @@ Permite que sejam modeladas as colaborações entre instânicas de objetos (que 
 [Voltar ao sumário](#sumário)<br>
 
 
-Diagrama de sequência inserido no github usando a biblioteca mermeid:
+Diagrama de sequência inserido no github usando a biblioteca mermaid:
 
 ```mermaid
 sequenceDiagram
@@ -699,7 +699,7 @@ Critérios para os diagramas entrar nesta lista:
 1. São materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados.
 2. Material foi ou poderá ser usado em sala de aula.
 3. Em alguns diagramas foram utilizados os exemplos da 
-biblioteca [Mermeid](https://mermaid.js.org/intro/), para inserir desenho nesta página github.
+biblioteca [Mermaid](https://mermaid.js.org/intro/), para inserir desenho nesta página github.
 ```
 
 [Voltar ao sumário](#sumário)<br>
