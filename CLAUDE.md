@@ -88,12 +88,15 @@ Key observations from the content:
 - **Logical vs Physical Views**: Distinguishes between logical and physical representations
 - **FMC**: Explicitly does NOT recommend FMC notation (marked with warning)
 - **Simplicity**: Encourages informal, simple diagram representations when appropriate
+- **Audience**: Material serves BOTH academic and professional audiences - it's a bridge between academia and industry
 
 ## License & Attribution
 
-- **Author**: Prof. Dr. Monteiro
+- **Author**: Prof. Dr. Emiliano Soares Monteiro
 - **License**: CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International)
-- **Citation formats**: BibTeX and bibliographic citation included in README.md section 9
+- **Citation formats**: BibTeX and bibliographic citation included in README.md section 10
+- **Contact**: www.pontodeensino.com
+- **Contributions**: Welcome via GitHub Issues or Pull Requests
 
 When making changes, respect the CC BY-NC-SA 4.0 license terms.
 

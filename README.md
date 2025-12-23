@@ -92,7 +92,9 @@ Tabela de referência rápida para escolher o diagrama adequado para cada situa�
 - [⚖️ 13. Avisos, Licença, Estatísticas](#-13-avisos-licença-estatísticas)
   - [13.1. Avisos](#131-avisos)
   - [13.2. Licença](#132-licença)
-  - [13.3. Estatísticas](#133-estatísticas-do-repositórios-do-prof-monteiro)
+  - [13.3. Como Contribuir](#133-como-contribuir)
+  - [13.4. Créditos e Autoria](#134-créditos-e-autoria)
+  - [13.5. Estatísticas](#135-estatísticas-do-repositório)
 
 
 
@@ -902,14 +904,31 @@ https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 
 
 ---
-# 💬 12. Comentários Finais 
+# 💬 12. Comentários Finais
 
+## 🎯 Finalidade e Público-Alvo
+
+Este material **não tem apenas finalidade acadêmica**. Embora seja amplamente utilizado em salas de aula, este guia foi desenvolvido para atender tanto estudantes quanto **profissionais da indústria de software**.
+
+**Para Profissionais:**
+- Referência rápida para escolher o diagrama certo para cada situação
+- Guia de boas práticas de notação e modelagem
+- Comparativo de ferramentas para uso profissional
+- Material de consulta durante projetos reais
+
+**Para Estudantes:**
+- Conteúdo didático e visual para aprendizado
+- Exemplos práticos de cada tipo de diagrama
+- Fundamentação teórica com referências
+- Preparação para o mercado de trabalho
+
+Este repositório serve como **ponte entre a academia e a indústria**, oferecendo conhecimento prático aplicável em ambientes profissionais de desenvolvimento de software, arquitetura de sistemas, engenharia de dados e modelagem de processos de negócio.
 
 ```
 Critérios para os diagramas entrar nesta lista:
 1. São materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados.
 2. Material foi ou poderá ser usado em sala de aula.
-3. Em alguns diagramas foram utilizados os exemplos da 
+3. Em alguns diagramas foram utilizados os exemplos da
 biblioteca [Mermaid](https://mermaid.js.org/intro/), para inserir desenho nesta página github.
 ```
 
@@ -947,7 +966,48 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ---
-## 13.3. Estatísticas do Repositório<br>
+## 13.3. Como Contribuir
+
+Contribuições são muito bem-vindas! Este é um projeto educacional aberto e colaborativo.
+
+**Formas de Contribuir:**
+- 📝 Sugerir melhorias no conteúdo
+- 🐛 Reportar erros ou inconsistências
+- 📚 Adicionar novos exemplos ou diagramas
+- 🌍 Propor traduções
+- 💡 Compartilhar casos de uso práticos
+
+**Entre em Contato:**
+- 🌐 Website: [www.pontodeensino.com](http://www.pontodeensino.com)
+- 👨‍🏫 Prof. Dr. Emiliano Soares Monteiro
+- 📧 Através do GitHub: Abra uma [Issue](https://github.com/monteiro74/diagramas_resumo/issues) ou [Pull Request](https://github.com/monteiro74/diagramas_resumo/pulls)
+
+Sua contribuição ajuda a melhorar este material para toda a comunidade de desenvolvedores e estudantes!
+
+[Voltar ao sumário](#-sumário)<br>
+
+---
+## 13.4. Créditos e Autoria
+
+**Autor e Mantenedor:**
+
+👨‍🏫 **Prof. Dr. Emiliano Soares Monteiro**
+
+Este material foi desenvolvido e é mantido pelo Prof. Dr. Emiliano Soares Monteiro, com o objetivo de democratizar o conhecimento sobre diagramação e modelagem de software. O projeto combina experiência acadêmica com conhecimento prático da indústria para criar um recurso valioso para a comunidade.
+
+**Agradecimentos:**
+- À comunidade de desenvolvedores que utiliza e compartilha este material
+- Aos estudantes que contribuem com feedback e sugestões
+- A todos os colaboradores do projeto no GitHub
+
+Para mais informações sobre o autor e outros projetos educacionais:
+- 🌐 [Ponto de Ensino](http://www.pontodeensino.com)
+- 💼 [Perfil GitHub](https://github.com/monteiro74)
+
+[Voltar ao sumário](#-sumário)<br>
+
+---
+## 13.5. Estatísticas do Repositório<br>
 
 Para visualizar estatísticas detalhadas deste repositório, acesse:
 
@@ -958,17 +1018,41 @@ Para visualizar estatísticas detalhadas deste repositório, acesse:
 - [Atividade de Commits](https://github.com/monteiro74/diagramas_resumo/graphs/commit-activity)
 - [Tráfego](https://github.com/monteiro74/diagramas_resumo/graphs/traffic)
 
-**Atividade do Repositório:**
+**📈 Atividade do Repositório:**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=github-compact)](https://git.io/streak-stats)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&repo=diagramas_resumo&theme=github-compact&hide_border=true)](https://github.com/monteiro74/diagramas_resumo)
 
-**Contribuidores:**
+**🔥 Sequência de Contribuições:**
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=github-compact&hide_border=true)](https://git.io/streak-stats)
+
+**📊 Estatísticas do Autor:**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show_icons=true&theme=github_light&hide_border=true&include_all_commits=true&count_private=false)
+
+**🌟 Linguagens Mais Usadas (Perfil Geral):**
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact&theme=github_light&hide_border=true)](https://github.com/monteiro74)
+
+**👥 Contribuidores do Projeto:**
 
 <a href="https://github.com/monteiro74/diagramas_resumo/contributors">
   <img src="https://contrib.rocks/image?repo=monteiro74/diagramas_resumo" />
 </a>
 
+**⭐ Apoie este Projeto:**
+
+Se este material foi útil para você, considere dar uma ⭐ (estrela) no repositório! Isso ajuda mais pessoas a descobrirem este conteúdo.
+
+[![GitHub stars](https://img.shields.io/github/stars/monteiro74/diagramas_resumo?style=social)](https://github.com/monteiro74/diagramas_resumo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/monteiro74/diagramas_resumo?style=social)](https://github.com/monteiro74/diagramas_resumo/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/monteiro74/diagramas_resumo?style=social)](https://github.com/monteiro74/diagramas_resumo/watchers)
+
 
 [Voltar ao sumário](#-sumário)<br>
+
+---
+
+**🎓 Desenvolvido com dedicação para a comunidade educacional e profissional | Prof. Dr. Emiliano Soares Monteiro © 2023-2024**
 
 
