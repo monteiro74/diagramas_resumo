@@ -82,16 +82,17 @@ Tabela de referência rápida para escolher o diagrama adequado para cada situa�
 - [⚙️ 5. Fundamental Modeling Concepts (FMC)](#5-fundamental-modeling-concepts-fmc)
 - [✏️ 6. Criando Diagramas no GitHub](#6-criando-diagramas-em-páginas-do-github)
 - [📊 7. BPMN - Business Process Model and Notation](#7-bpmn)
-- [📚 8. Referências](#8-referências)
-- [📝 9. Como Citar esta Página](#9-como-citar-esta-página-em-seus-trabalhos-artigos-ou-outras-referências)
-  - [9.1. Citação Bibliográfica](#91-citação-bibliográfica)
-  - [9.2. Citação BibTeX para LaTeX](#92-citação-bibtex-para-latex)
-- [🛠️ 10. Lista de Ferramentas](#10-lista-de-ferramentas)
-- [💬 11. Comentários Finais](#11-comentários-finais)
-- [⚖️ 12. Avisos, Licença, Estatísticas](#12-avisos-licença-estatísticas)
-  - [12.1. Avisos](#121-avisos)
-  - [12.2. Licença](#122-licença)
-  - [12.3. Estatísticas](#123-estatísticas-do-repositórios-do-prof-monteiro)
+- [❓ 8. Perguntas Frequentes (FAQ)](#-8-perguntas-frequentes-faq)
+- [📚 9. Referências](#-9-referências)
+- [📝 10. Como Citar esta Página](#-10-como-citar-esta-página-em-seus-trabalhos-artigos-ou-outras-referências)
+  - [10.1. Citação Bibliográfica](#101-citação-bibliográfica)
+  - [10.2. Citação BibTeX para LaTeX](#102-citação-bibtex-para-latex)
+- [🛠️ 11. Lista de Ferramentas](#-11-lista-de-ferramentas)
+- [💬 12. Comentários Finais](#-12-comentários-finais)
+- [⚖️ 13. Avisos, Licença, Estatísticas](#-13-avisos-licença-estatísticas)
+  - [13.1. Avisos](#131-avisos)
+  - [13.2. Licença](#132-licença)
+  - [13.3. Estatísticas](#133-estatísticas-do-repositórios-do-prof-monteiro)
 
 
 
@@ -191,17 +192,17 @@ As entidades são "**as coisas**" que queremos representar e guardar informaçõ
 Os atributos dão características às entidades. São os elementos básicos que ajudam a formar e dar identidade às entidades. São os tijolos básicos das entidades e sua compreensão. Atributos também podem ser características de relações. <br>
 
 
-```
-Observação:
-Algumas ferramentas de diagramação os atributos estão conectados nas
-entidades e representados em forma oval. É bom citar que esta é uma das
-piores formas de representação de atributos em entidades, pois os diagramas
-tendem a crescer conforme o analista vai melhorando ou especificando mais
-detalhes nos diagramas, essa abordagem de usar  balões como atributos 
-flutuando conectados nas suas respectivas entidades não é eficiente.
-```
+> ⚠️ **Atenção - Evite Atributos como Balões!**
+>
+> Algumas ferramentas de diagramação representam atributos conectados nas entidades em forma oval (balões flutuantes). Esta é uma das **piores formas** de representação de atributos em entidades, pois:
+> - Os diagramas ficam visualmente poluídos e difíceis de ler
+> - Ocupam muito espaço conforme o modelo cresce
+> - Dificultam manutenção e evolução do diagrama
+> - Essa abordagem não escala bem para projetos reais
 
-Recomendamos representar os atributos dentro do retângulo das entidades, separando apenas o título da entidade dos atributos por uma linha. Abaixo temos uma representação na figura da esquerda a visão lógica e na da direita a visão física, representam a mesma entidade com duas visões diferentes; este mesmo exemplo pode ser utilizado nas situações de modelagem de  classe (visão lógica e física).<br>
+> ✅ **Boa Prática - Atributos Dentro da Entidade**
+>
+> Recomendamos **fortemente** representar os atributos dentro do retângulo das entidades, separando apenas o título da entidade dos atributos por uma linha horizontal. Esta notação é mais limpa, escalável e profissional. Abaixo temos uma representação na figura da esquerda a visão lógica e na da direita a visão física, representam a mesma entidade com duas visões diferentes; este mesmo exemplo pode ser utilizado nas situações de modelagem de  classe (visão lógica e física).<br>
 
 
 
@@ -221,14 +222,11 @@ A forma como uma entidade se conecta com outra, ou seja, a forma como uma entida
 
 Nota: As entidades devem ter atributos semelhantes (e com tipos de dados semelhantes) para que esta ligação possa ser realizada. Sugerimos leituras sobre as chaves estrangeiras (FK).<br>
 
-```
-Observação:
-Existem diversas formas de notação, uma delas é pela utilização
-de uma figura tipo um diamante no centro da linha que interliga as
-entidades, não recomendamos pois esse tipo de abordagem, mais uma 
-vez... acaba ocupando uma quantidade grande de espaço conforme o 
-modelo vai sendo especializado e ampliado.
-```
+> 💡 **Dica - Notação de Relacionamentos**
+>
+> Existem diversas formas de notação para relacionamentos. Uma delas utiliza um **diamante** no centro da linha que interliga as entidades. Não recomendamos essa abordagem pois, assim como os balões de atributos, acaba ocupando uma quantidade grande de espaço conforme o modelo vai sendo especializado e ampliado.
+>
+> **Prefira a notação "pé de corvo" (crow's foot)** - é mais compacta e amplamente reconhecida na indústria.
 
 Na figura abaixo o relacionamento pode ser lido como: 1(um) aluno "**pode ter**" zero ou muitos "**pets**" ou 1 (um) aluno tem nenhum ou mais de um pets. O lado "**nenhum**" (entidade na direita) pode ser visto como circulo vazio, também nesse lado direito as 3 linhas também podem ser chamadas de "**pé de corvo**". Pois um aluno pode ter mais de um pets assim como podem haver alunos com nenhum pets.<br>
 
@@ -598,10 +596,11 @@ Os diagramas de implantação também podem representar a topologia da rede, ou 
 
 Site sobre FMC: http://www.fmc-modeling.org/home
 
-
-```
-Observação: Não recomendo FMC no momento !
-```
+> ⚠️ **Aviso Importante**
+>
+> **Não recomendamos FMC no momento!**
+>
+> Embora o FMC tenha seus méritos teóricos, existem alternativas mais estabelecidas e com melhor suporte de ferramentas (UML, BPMN). Para a maioria dos projetos, recomendamos focar nos diagramas UML e BPMN apresentados neste guia.
 
 [Voltar ao sumário](#-sumário)<br>
 
@@ -712,7 +711,90 @@ Exemplo:
 
 
 ---
-# 📚 8. Referências
+# ❓ 8. Perguntas Frequentes (FAQ)
+
+**Q: Qual a diferença entre DER e Diagrama de Classes?**
+<details>
+<summary>Ver resposta</summary>
+
+A: O **DER** foca em estrutura de dados para bancos de dados relacionais, modelando entidades, atributos e relacionamentos sem comportamentos. Já o **Diagrama de Classes** foca em estrutura de código orientado a objetos, incluindo métodos (comportamentos), herança, e encapsulamento. Um DER pode ser transformado em tabelas de BD, enquanto um Diagrama de Classes é transformado em código (classes).
+</details>
+
+**Q: Preciso usar todos os 14 diagramas UML em meu projeto?**
+<details>
+<summary>Ver resposta</summary>
+
+A: **Não!** Use apenas os diagramas que agregam valor ao seu projeto. Os mais comuns em projetos típicos são:
+- **Diagrama de Classes** (estrutura OO)
+- **Casos de Uso** (requisitos)
+- **Sequência** (interações detalhadas)
+- **Atividades** (fluxos de processo)
+
+Evite criar diagramas apenas por criar. Cada diagrama deve ter um propósito claro.
+</details>
+
+**Q: Posso misturar diferentes notações de diagramas?**
+<details>
+<summary>Ver resposta</summary>
+
+A: **Evite!** Escolha um padrão de notação (ex: notação "pé de corvo" para cardinalidade no DER) e mantenha consistência em todo o projeto. Misturar notações confunde a equipe e dificulta a manutenção. A consistência é mais importante que a "notação perfeita".
+</details>
+
+**Q: Quando devo usar BPMN ao invés de DFD?**
+<details>
+<summary>Ver resposta</summary>
+
+A: Use **BPMN** quando:
+- Modelar processos de negócio complexos
+- Precisar de raias (swimlanes) para responsabilidades
+- Trabalhar com automação de processos (BPM)
+- Documentar workflows empresariais
+
+Use **DFD** quando:
+- Focar no fluxo de dados entre processos
+- Fazer análise estruturada de sistemas
+- Documentar sistemas legados
+- Precisar de simplicidade (DFD tem menos símbolos)
+</details>
+
+**Q: Como escolher entre Diagrama de Atividades e BPMN?**
+<details>
+<summary>Ver resposta</summary>
+
+A: Ambos modelam fluxos, mas:
+- **Diagrama de Atividades (UML)**: melhor para lógica de software, algoritmos, métodos
+- **BPMN**: melhor para processos de negócio, workflows empresariais, automação
+
+Se está documentando código, use Atividades. Se está documentando processos empresariais, use BPMN.
+</details>
+
+**Q: É necessário usar ferramentas caras para criar diagramas?**
+<details>
+<summary>Ver resposta</summary>
+
+A: **Não!** Existem excelentes ferramentas gratuitas:
+- **Draw.io/diagrams.net** (web, gratuito, completo)
+- **PlantUML** (diagramas como código, gratuito)
+- **Mermaid** (integrado ao GitHub, gratuito)
+- **Lucidchart** (versão gratuita limitada)
+
+Ferramentas pagas como Enterprise Architect ou Visual Paradigm são úteis para grandes empresas, mas não são necessárias para aprender ou para projetos pequenos/médios.
+</details>
+
+**Q: Devo criar diagramas antes ou depois de programar?**
+<details>
+<summary>Ver resposta</summary>
+
+A: **Depende do diagrama:**
+- **Antes**: DER (antes de criar o BD), Casos de Uso (levantamento de requisitos), Diagrama de Classes inicial (design)
+- **Durante**: Sequência (para entender interações), Atividades (para lógica complexa)
+- **Depois**: Diagramas de documentação (Componentes, Implantação, Pacotes)
+
+Em metodologias ágeis, diagramas leves e evolutivos são preferíveis a documentação pesada antecipada.
+</details>
+
+---
+# 📚 9. Referências
 
 
 Fonte sobre BPMN https://www.omg.org/spec/BPMN/2.0/
@@ -725,15 +807,15 @@ Diagramas dentro de arquivos markdown https://github.blog/2022-02-14-include-dia
 [Voltar ao sumário](#-sumário)<br>
 
 ---
-# 📝 9. Como Citar esta Página em seus Trabalhos, Artigos ou Outras Referências
+# 📝 10. Como Citar esta Página em seus Trabalhos, Artigos ou Outras Referências
 
-## 9.1. Citação Bibliográfica
+## 10.1. Citação Bibliográfica
 
 ```
 Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Software] https://github.com/monteiro74/diagramas_resumo. 
 ```
 
-## 9.2. Citação BibTeX para LaTeX
+## 10.2. Citação BibTeX para LaTeX
 
 ```
 @misc{Monteiro2023,
@@ -748,10 +830,70 @@ Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Softwar
 ```
 
 ---
-# 🛠️ 10. Lista de Ferramentas
+# 🛠️ 11. Lista de Ferramentas Recomendadas
 
-Lista de ferramentas para serem usados conforme o caso:
+## 🌐 Ferramentas Online (Gratuitas)
 
+| Ferramenta | Tipo | Melhor Para | Link |
+|:-----------|:-----|:------------|:-----|
+| **Draw.io / diagrams.net** | Web, Desktop, VSCode | Todos os diagramas, UML completa | [draw.io](https://app.diagrams.net/) |
+| **Lucidchart** | Web | Colaboração em equipe, interface intuitiva | [lucidchart.com](https://www.lucidchart.com/) |
+| **PlantUML** | Código | Diagramas como código, automação | [plantuml.com](https://plantuml.com/) |
+| **Mermaid** | Código | Integrado ao GitHub/GitLab, markdown | [mermaid.js.org](https://mermaid.js.org/) |
+| **Creately** | Web | Templates prontos, BPMN | [creately.com](https://creately.com/) |
+| **Gliffy** | Web | Simplicidade, fluxogramas | [gliffy.com](https://www.gliffy.com/) |
+
+## 💻 Ferramentas Desktop
+
+| Ferramenta | Plataforma | Licença | Melhor Para |
+|:-----------|:-----------|:--------|:------------|
+| **StarUML** | Windows, Mac, Linux | Comercial | UML profissional, geração de código |
+| **Enterprise Architect** | Windows | Comercial | Projetos corporativos grandes |
+| **Visual Paradigm** | Windows, Mac, Linux | Comercial/Community | UML completa, engenharia reversa |
+| **Umbrello** | Linux | Gratuito/Open Source | UML no Linux |
+| **ArgoUML** | Multiplataforma (Java) | Gratuito/Open Source | UML acadêmico |
+
+## 🔌 Extensões para IDEs
+
+| IDE | Extensão | Tipo de Diagrama | Link |
+|:----|:---------|:-----------------|:-----|
+| **VS Code** | PlantUML | UML, ER, Sequência | [Marketplace](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml) |
+| **VS Code** | Mermaid Preview | Todos (Mermaid) | [Marketplace](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) |
+| **IntelliJ IDEA** | PlantUML Integration | UML, ER, Sequência | [JetBrains Plugin](https://plugins.jetbrains.com/plugin/7017-plantuml-integration) |
+| **IntelliJ IDEA** | Diagrams.net Integration | Todos | [JetBrains Plugin](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration) |
+
+## 🗄️ Ferramentas Específicas para Banco de Dados
+
+| Ferramenta | Foco | Preço | Melhor Para |
+|:-----------|:-----|:------|:------------|
+| **MySQL Workbench** | DER, SQL | Gratuito | Modelagem MySQL |
+| **pgModeler** | DER, PostgreSQL | Gratuito | Modelagem PostgreSQL |
+| **SQL Power Architect** | DER multiplataforma | Gratuito/Comercial | Engenharia reversa de BD |
+| **DbSchema** | DER, documentação | Comercial/Trial | Documentação de esquemas |
+
+## 📊 Ferramentas para BPMN
+
+| Ferramenta | Tipo | Preço | Recursos |
+|:-----------|:-----|:------|:---------|
+| **Camunda Modeler** | Desktop | Gratuito | BPMN 2.0, DMN, Forms |
+| **bpmn.io** | Web/Biblioteca | Open Source | Integração em aplicações web |
+| **Bizagi Modeler** | Desktop | Gratuito | BPMN, simulação de processos |
+
+## 💡 Dicas de Escolha
+
+> ✅ **Para Iniciantes**: Comece com **Draw.io** (gratuito, completo, sem instalação)
+>
+> ✅ **Para Desenvolvedores**: Use **PlantUML** ou **Mermaid** (diagramas como código, versionamento)
+>
+> ✅ **Para Equipes**: Considere **Lucidchart** (colaboração em tempo real, comentários)
+>
+> ✅ **Para Acadêmicos**: **ArgoUML** ou **StarUML Community** (gratuitos, UML completa)
+>
+> ✅ **Para Empresas**: **Enterprise Architect** ou **Visual Paradigm** (governança, rastreabilidade)
+
+## 📚 Lista Completa de Ferramentas
+
+Para uma lista mais abrangente de ferramentas de desenvolvimento:
 https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 
 
@@ -760,7 +902,7 @@ https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 
 
 ---
-# 💬 11. Comentários Finais 
+# 💬 12. Comentários Finais 
 
 
 ```
@@ -774,10 +916,10 @@ biblioteca [Mermaid](https://mermaid.js.org/intro/), para inserir desenho nesta 
 [Voltar ao sumário](#-sumário)<br>
 
 ---
-# ⚖️ 12. Avisos, Licença, Estatísticas
+# ⚖️ 13. Avisos, Licença, Estatísticas
 
 
-## 12.1. Avisos
+## 13.1. Avisos
 ```
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 Primeira postagem em: 17/jun/2023.
@@ -788,7 +930,7 @@ Se desejar conhecer outras ferramentas para desenvolvimento de software, consult
 [Voltar ao sumário](#-sumário)<br>
 
 
-## 12.2. Licença
+## 13.2. Licença
 
 ```
 Autor: Prof. Dr. Monteiro.
@@ -805,43 +947,26 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ---
-## 12.3. Estatísticas do Repositório do Prof. Monteiro<br>
+## 13.3. Estatísticas do Repositório<br>
 
-[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/diagramas_resumo)
+Para visualizar estatísticas detalhadas deste repositório, acesse:
 
+📊 **Métricas do Projeto:**
+- [Pulse (Atividade Recente)](https://github.com/monteiro74/diagramas_resumo/pulse)
+- [Contribuidores](https://github.com/monteiro74/diagramas_resumo/contributors)
+- [Frequência de Código](https://github.com/monteiro74/diagramas_resumo/graphs/code-frequency)
+- [Atividade de Commits](https://github.com/monteiro74/diagramas_resumo/graphs/commit-activity)
+- [Tráfego](https://github.com/monteiro74/diagramas_resumo/graphs/traffic)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=dark)](https://git.io/streak-stats)
+**Atividade do Repositório:**
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=github-compact)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
+**Contribuidores:**
 
-
-
-Pulse:<br>
-https://github.com/monteiro74/diagramas_resumo/pulse<BR>
-
-Contribuições de:<br>
 <a href="https://github.com/monteiro74/diagramas_resumo/contributors">
   <img src="https://contrib.rocks/image?repo=monteiro74/diagramas_resumo" />
 </a>
-
-Histórico de frequência de código:<BR>
-https://github.com/monteiro74/diagramas_resumo/graphs/code-frequency<BR>
-
-Atividade de commits:<BR>
-https://github.com/monteiro74/diagramas_resumo/graphs/commit-activity<BR>
-
-Trafego:<BR>
-https://github.com/monteiro74/diagramas_resumo/graphs/traffic<BR>
-
-
-![stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=donut-vertical)](https://github.com/monteiro74/github-readme-stats)
 
 
 [Voltar ao sumário](#-sumário)<br>
