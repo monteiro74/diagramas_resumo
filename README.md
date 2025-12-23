@@ -1,57 +1,97 @@
 # Breve resumo de diagramas
 
-Uma breve compilação de material (curadoria de conteúdo digital) sobre diversos diagramas utilizados na disciplina de Engenharia de Software, projeto de software, arquitetura de sistemas e bancos de dados. "Resumo dos diagramas mais comuns" que usamos nestas disciplinas. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. 
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+![Language](https://img.shields.io/badge/Language-Portuguese-green.svg)
+![Last Update](https://img.shields.io/badge/Last%20Update-Dezembro%202024-blue.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+
+Uma breve compilação de material (curadoria de conteúdo digital) sobre diversos diagramas utilizados na disciplina de Engenharia de Software, projeto de software, arquitetura de sistemas e bancos de dados. "Resumo dos diagramas mais comuns" que usamos nestas disciplinas. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs.
 
 
 
 
+
+## 📚 Sobre este Material
+
+Este repositório é um **guia prático e visual** para estudantes e profissionais que desejam compreender os principais diagramas utilizados em engenharia de software, modelagem de dados e arquitetura de sistemas.
+
+**Ideal para:**
+- 🎓 Estudantes de Ciência da Computação e Engenharia de Software
+- 💻 Desenvolvedores que desejam melhorar suas habilidades de documentação
+- 🏗️ Analistas de sistemas e arquitetos de software
+- 📊 Profissionais que trabalham com modelagem de processos e bancos de dados
+
+**O que você vai aprender:**
+- Diagramas de Entidade-Relacionamento (DER) para modelagem de bancos de dados
+- Diagramas de Fluxo de Dados (DFD) para análise de sistemas
+- UML completa com 14 tipos de diagramas
+- BPMN para modelagem de processos de negócio
+- Como criar diagramas diretamente no GitHub usando Mermaid
 
 ```
 Observação:
-Este material é o mínimo necessário nas áreas de: 
+Este material é o mínimo necessário nas áreas de:
 a) engenharia de software;
 b) documentação de software;
 c) arquitetura de software e sistemas;
 d) modelagem visual de software.
-Este material esta em construção. 
+Este material esta em construção.
 ```
+
+## 🔍 Qual Diagrama Usar?
+
+Tabela de referência rápida para escolher o diagrama adequado para cada situação:
+
+| Objetivo | Diagrama Recomendado | Quando Usar | Complexidade |
+|:---------|:--------------------|:------------|:------------:|
+| Modelar estrutura de banco de dados | **DER** | Projeto de BD relacional, normalização | ⭐⭐ |
+| Mostrar fluxo de processos e dados | **DFD** | Análise de sistemas, documentação de processos | ⭐⭐ |
+| Documentar classes e relacionamentos OO | **Diagrama de Classes** | Design orientado a objetos, APIs | ⭐⭐⭐ |
+| Capturar requisitos funcionais | **Casos de Uso** | Levantamento de requisitos, visão do usuário | ⭐ |
+| Modelar fluxo de trabalho/algoritmo | **Diagrama de Atividades** | Lógica de processos, workflows | ⭐⭐ |
+| Mostrar interações temporais | **Diagrama de Sequência** | Debugging, design detalhado de interações | ⭐⭐⭐ |
+| Documentar arquitetura de módulos | **Diagrama de Componentes** | Arquitetura de software, organização de módulos | ⭐⭐⭐ |
+| Organizar namespace/pacotes | **Diagrama de Pacotes** | Estrutura de grandes projetos, dependências | ⭐⭐ |
+| Planejar infraestrutura física | **Diagrama de Implantação** | DevOps, arquitetura de deployment | ⭐⭐⭐ |
+| Modelar processos de negócio | **BPMN** | Processos empresariais, automação | ⭐⭐⭐ |
+
+**Legenda de Complexidade:** ⭐ Simples | ⭐⭐ Moderado | ⭐⭐⭐ Avançado
 
 
 
 ---
-# Sumário
+# 📑 Sumário
 
-- [Breve resumo de diagramas](#breve-resumo-de-diagramas)
-- [Sumário](#sumário)
-- [1. Definições](#1-definições)
-- [2. DER](#2-der)
+- [📚 Sobre este Material](#-sobre-este-material)
+- [📖 1. Definições](#1-definições)
+- [🗄️ 2. DER - Diagrama Entidade Relacionamento](#2-der)
   - [2.1. Entidade](#21-entidade)
   - [2.2. Atributos](#22-atributos)
   - [2.3. Relacionamentos](#23-relacionamentos)
-- [3. DFD](#3-dfd)
-- [4. UML](#4-uml)
-  - [4.1. Diagrama de classes](#41-diagrama-de-classes)
-  - [4.2. Diagrama de casos de uso](#42-diagrama-de-casos-de-uso)
-  - [4.3. Diagrama de atividades](#43-diagrama-de-atividades)
-  - [4.4. Diagrama de sequência](#44-diagrama-de-sequência)
-  - [4.5. Diagrama de componentes](#45-diagrama-de-componentes)
+- [🔄 3. DFD - Diagrama de Fluxo de Dados](#3-dfd)
+- [🎨 4. UML - Unified Modeling Language](#4-uml)
+  - [4.1. Diagrama de Classes](#41-diagrama-de-classes)
+  - [4.2. Diagrama de Casos de Uso](#42-diagrama-de-casos-de-uso)
+  - [4.3. Diagrama de Atividades](#43-diagrama-de-atividades)
+  - [4.4. Diagrama de Sequência](#44-diagrama-de-sequência)
+  - [4.5. Diagrama de Componentes](#45-diagrama-de-componentes)
     - [4.5.1. Interfaces](#451-interfaces)
     - [4.5.2. Artefatos](#452-artefatos)
-  - [4.6. Diagrama de pacotes](#46-diagrama-de-pacotes)
-  - [4.7. Diagrama de implantação](#47-diagrama-de-implantação)
-- [5. Fundamental Modeling Concepts (FMC)](#5-fundamental-modeling-concepts-fmc)
-- [6. Criando diagramas em páginas do github:](#6-criando-diagramas-em-páginas-do-github)
-- [7. BPMN](#7-bpmn)
-- [8. Referências](#8-referências)
-- [9. Como citar esta página em seus trabalhos, artigos ou outras referências:](#9-como-citar-esta-página-em-seus-trabalhos-artigos-ou-outras-referências)
-  - [9.1. Citação bibliográfica:](#91-citação-bibliográfica)
-  - [9.2. Citação bibtex para Latex:](#92-citação-bibtex-para-latex)
-- [10. Lista de ferramentas](#10-lista-de-ferramentas)
-- [11. Comentários finais](#11-comentários-finais)
-- [12. Avisos, licença, estatísticas...](#12-avisos-licença-estatísticas)
+  - [4.6. Diagrama de Pacotes](#46-diagrama-de-pacotes)
+  - [4.7. Diagrama de Implantação](#47-diagrama-de-implantação)
+- [⚙️ 5. Fundamental Modeling Concepts (FMC)](#5-fundamental-modeling-concepts-fmc)
+- [✏️ 6. Criando Diagramas no GitHub](#6-criando-diagramas-em-páginas-do-github)
+- [📊 7. BPMN - Business Process Model and Notation](#7-bpmn)
+- [📚 8. Referências](#8-referências)
+- [📝 9. Como Citar esta Página](#9-como-citar-esta-página-em-seus-trabalhos-artigos-ou-outras-referências)
+  - [9.1. Citação Bibliográfica](#91-citação-bibliográfica)
+  - [9.2. Citação BibTeX para LaTeX](#92-citação-bibtex-para-latex)
+- [🛠️ 10. Lista de Ferramentas](#10-lista-de-ferramentas)
+- [💬 11. Comentários Finais](#11-comentários-finais)
+- [⚖️ 12. Avisos, Licença, Estatísticas](#12-avisos-licença-estatísticas)
   - [12.1. Avisos](#121-avisos)
   - [12.2. Licença](#122-licença)
-  - [12.3. Estatísticas do repositórios do Prof. Monteiro](#123-estatísticas-do-repositórios-do-prof-monteiro)
+  - [12.3. Estatísticas](#123-estatísticas-do-repositórios-do-prof-monteiro)
 
 
 
@@ -71,7 +111,7 @@ exemplo de caixa de texto
 
 
 ---
-# 1. Definições
+# 📖 1. Definições
 
 Um diagrama é um desenho mostrando uma estrutura ou representação esquemática de algo (como uma máquina ou sistema), de forma a apresentar simplificadamente sua estrutura e/ou funcionamento. <br>
 
@@ -100,16 +140,23 @@ Onde se aplica a modelagem visual:
 ![Modelagem visual](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/modelagem_visual.png)
 
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
 
 
 ---
-# 2. DER
+# 🗄️ 2. DER - Diagrama Entidade Relacionamento
 
-O Diagrama de Entidade Relacionamento (DER), é um tipo de diagrama que apresenta as entidades de um sistema; estas entidades são conectadas por relacionamentos, as entidades possuem internamente atributos. Este diagrama é utilizado para modelar bancos de dados, também pode representar regras de negócio utilizadas pelas empresas. Também permite perceber as conexões lógicas entre "as coisas" com as quais se deseja representar informações. O criado deste diagrama é o Professor Peter Chen ([Peter Pin-Shan Chen](https://en.wikipedia.org/wiki/Peter_Chen)) na década de 1970 naSloan School of Management no MIT publicado em “*The Entity-Relationship Model: Toward a Unified View of Data*". O trabalho de DER contribuiu para o modelo de Classes e posteriormente com a UML. <br>
+> **📌 Resumo Rápido**
+> - **Criador**: Peter Pin-Shan Chen (1976)
+> - **Uso Principal**: Modelagem de bancos de dados relacionais
+> - **Componentes**: Entidades, Atributos, Relacionamentos
+> - **Quando Usar**: Projeto de banco de dados, normalização, modelagem de regras de negócio
+> - **Notação Recomendada**: Notação "pé de corvo" (crow's foot) para cardinalidade
+
+O Diagrama de Entidade Relacionamento (DER), é um tipo de diagrama que apresenta as entidades de um sistema; estas entidades são conectadas por relacionamentos, as entidades possuem internamente atributos. Este diagrama é utilizado para modelar bancos de dados, também pode representar regras de negócio utilizadas pelas empresas. Também permite perceber as conexões lógicas entre "as coisas" com as quais se deseja representar informações. O criado deste diagrama é o Professor Peter Chen ([Peter Pin-Shan Chen](https://en.wikipedia.org/wiki/Peter_Chen)) na década de 1970 naSloan School of Management no MIT publicado em "*The Entity-Relationship Model: Toward a Unified View of Data*". O trabalho de DER contribuiu para o modelo de Classes e posteriormente com a UML. <br>
 
 São componentes de um DER: entidades, atributos e relacionamentos. Os diagramas entidade relacionamento também proporcionam um meio de comunicação. Os diagramas entidades relacionamento são também chamados de diagram ER, Modelo ER. São diagramas estruturais utilizados principalmente para o projeto de um banco de dados (relacional e/ou objeto relacional). <br>
 
@@ -119,7 +166,7 @@ Na figura abaixo temos 3 exemplos, esta figura esta dividida ao meio, prefira as
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/der.png" alt= “DER” width="600" height="420">
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 ## 2.1. Entidade
@@ -130,7 +177,7 @@ As entidades são "**as coisas**" que queremos representar e guardar informaçõ
 
 ![Exemplo de entidades](https://github.com/monteiro74/diagramas_resumo/blob/main/imagens/entidades.jpg?raw=true "Exemplo de entidades")
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
@@ -160,7 +207,7 @@ Recomendamos representar os atributos dentro do retângulo das entidades, separa
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/logico_fisico.png" alt= “atributos” width="350" height="180">
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
@@ -199,7 +246,7 @@ Que tal desenha o mais informal possível ? Objetivando apenas representar as en
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/entidades2.png" alt= “desenhos_informal” width="280" height="80">
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
@@ -207,27 +254,33 @@ Que tal desenha o mais informal possível ? Objetivando apenas representar as en
 
 
 ---
-# 3. DFD
+# 🔄 3. DFD - Diagrama de Fluxo de Dados
 
+> **📌 Resumo Rápido**
+> - **Criadores**: Edward Yourdon, Larry Constantine, Tom DeMarco, Chris Gane, Trish Sarson
+> - **Época**: Década de 1970
+> - **Uso Principal**: Análise de sistemas, fluxo de dados entre processos
+> - **Componentes**: Processos (círculos), Entidades Externas (retângulos), Armazenamento de Dados, Fluxos (setas)
+> - **Quando Usar**: Documentação de sistemas, análise estruturada, compreensão de fluxo de informações
 
 O Diagrama de Fluxo de Dados (DFD) é uma forma de representação das principais funções de um sistema e movimentação de dados entre estas funções, saíde de entidades e arquivos (ou bancos de dados). O DFD foi desenvolvido e popularizado na década de 70, onde ainda era comum a utilização de arquivos para o armazenamento de dados. Os principais desenvolvedores e promotores deste tipo de diagrama são: Edward Yourdon, Larry Constantine, Tom DeMarco, Chris Gane and Trish Sarson.
 
 
-Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
+Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:
 
-| Símbolo    | Descrição |
-| -------- | ------- |
-| Círculo  | Processo ou função   |
-| Retângulo | Entidade externa     |
-| Retângulo com a lateral aberta | Arquivo de dados ou banco de dados |
-| Seta | Sentido do fluxo de dados, com descrição de dados |
-| Retângulo "maior" pontilhado | Opcional, geralmente representa as fronteiras do sistema |
+| Símbolo | Descrição | Uso |
+|:-------:|:----------|:----|
+| ⭕ Círculo | Processo ou função | Representa uma transformação de dados |
+| ▭ Retângulo | Entidade externa | Origem ou destino de dados (usuários, sistemas externos) |
+| ▬ Retângulo lateral aberta | Arquivo de dados ou BD | Armazenamento permanente de informações |
+| → Seta | Fluxo de dados | Movimento de informação entre componentes |
+| ⬚ Retângulo pontilhado | Fronteira do sistema | Define os limites do sistema (opcional) |
 
 <br>
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/dfd3.png" alt="dfd" style="height: 480px; width:480px;"/>
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
@@ -236,7 +289,15 @@ Os símbolos utilizados pelo DFD são simples e poucos, sendo eles:<br>
 
 
 ---
-# 4. UML
+# 🎨 4. UML - Unified Modeling Language
+
+> **📌 Resumo Rápido**
+> - **Organização**: Object Management Group (OMG)
+> - **Época**: Década de 1990
+> - **Foco Principal**: Sistemas orientados a objetos
+> - **Total de Diagramas**: 14 tipos (7 estruturais + 7 comportamentais)
+> - **Diagramas Mais Usados**: Classes, Casos de Uso, Sequência, Atividades
+> - **Quando Usar**: Modelagem OO, documentação de arquitetura, design de software
 
 Unified Modeling Language (UML, ou linguagem de modelagem unificada), é um componente da engenharia de software como ferramenta de diagramação e modelagem de sistemas principalmente orientados a objetos. Outros tipos de sistemas como estruturados, real-time também podem ser modelados com UML (apesar de este não ser seu foco principal). A UML é divida em vários diagramas que abordam aspectos dinâmicos e estáricos da visão estrutural de um sistema.  A UML surgiu  na década de 1990 pelo Object Management Group (OMG).
 
@@ -286,12 +347,12 @@ flowchart
             D --> D4[Diagrama de tempo]
 ```
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 **Os mais interessantes e populares são os citados a seguir:**
 
-## 4.1. Diagrama de classes
+## 4.1. Diagrama de Classes
 
 O diagrama de classe são o pilar da UML e dos projetos OO. A classe é um retângulo dividido em 3 partes (nome da classe, atributos(características ou campos) e métodos (procedimentos ou funções)). O diagrama de classes e subclasses são associadas via uma relação (similar ao DER (diagrama entidade relacionemnto)) permitindo apresentar os componentes estáticos de um sistema, esquematizando estruturas de dados poderão ser implementadas na forma de tabelas em um banco e como funções de aplicações.
 
@@ -311,16 +372,16 @@ Note que na figura temos uma associação (ou relação) do tipo generalização
 
 Alguns símbolos de acesso mais populares (ou modificadores de acesso ou visibilidade):
 
-| Símbolo    | Significado |
-| -------- | ------- |
-| +  | Público    |
-| - | Privado    |
-| #    | Protegido    |
+| Símbolo | Modificador | Escopo de Acesso | Quando Usar |
+|:-------:|:------------|:-----------------|:------------|
+| **+** | Público | Qualquer classe pode acessar | APIs públicas, interfaces |
+| **-** | Privado | Apenas a própria classe | Detalhes internos de implementação |
+| **#** | Protegido | Classe e subclasses | Compartilhar com herança |
 
-Definição: 
-* "**Public**: qualquer um pode acessar variáveis de instância públicas.
-* **Protected**: apenas métodos do mesmo pacote ou subclasse podem acessar variáveis de instância protegidas.
-* **Private**: apenas métodos da mesma classe (excluindo métodos de uma subclasse) podem acessar variáveis de instâncias privadas”. 
+**Definições detalhadas:**
+* **Public (+)**: qualquer um pode acessar variáveis de instância públicas.
+* **Protected (#)**: apenas métodos do mesmo pacote ou subclasse podem acessar variáveis de instância protegidas.
+* **Private (-)**: apenas métodos da mesma classe (excluindo métodos de uma subclasse) podem acessar variáveis de instâncias privadas. 
 
 Fonte: https://blog.grancursosonline.com.br/java-modificadores-de-acesso-parte-ii-15-questoes-comentadas/#:~:text=public%3A%20qualquer%20um%20pode%20acessar,acessar%20vari%C3%A1veis%20de%20inst%C3%A2ncias%20privadas%E2%80%9D.
 
@@ -328,7 +389,7 @@ Como exemplificado na figura abaixo:<br>
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/classe22.png" alt="Modificador de acesso" style="height: 150px; width:200px;"/>
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
@@ -336,7 +397,7 @@ Como exemplificado na figura abaixo:<br>
 
 
 
-## 4.2. Diagrama de casos de uso
+## 4.2. Diagrama de Casos de Uso
 
 Este diagrama da UML apresente um aspecto dinâmico de um sistema, ou melhor o comportamento do sistema com relação seus atores (sejam eles pessoas ou interações com outros sistemas). Ele apresenta partes funcionais de um sistema. Este diagrama contém atores, ações (ou funções) e fronteiras do sistema modelado. Todo ator é representado por um boneco de linhas simples ou "palitinhos". Este diagrama é foca no comportamento do sistema. Este diagrama não apresenta detalhes internos de funcionamento do sistema. 
 
@@ -355,12 +416,12 @@ Para extender os casos de uso temos duas notações, incluve e extend. No tipo i
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/casosdeuso3.png" alt="Modificador de acesso" style="height: 250px; width:350px;"/>
 
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
 
-## 4.3. Diagrama de atividades
+## 4.3. Diagrama de Atividades
 
 São diagramas que representam o estado dinâmico de um sistema, ou seja, representam ações que o sistemas e suas partes executam. Foi incorporado à UML, é também chamado de fluxograma ou flow chart. Este diagrama apresenta atividades em retângulos com cantos arredondados, cada retângulo é uma passo do fluxo. O início de cada fluxo de atividades é representado por um bola preenchida e o fim do fluxo representado por um círculo. Geralmente o diagrama é lido na vertical, sendo o início e o final esta na base do desenho. Este desenho um símbolo de diamante para representar uma decisão ou bifurcação no fluxo indicando uma opção de caminho alternativo. Este diagrama também possibilida que atividades paralelas sejam representadas. Permite que fluxo de processos de negócio sejam identificados. Permite a modelagem de fluxos entre os casos de uso. Atividades complexas podem ser modeladas.
 
@@ -369,7 +430,7 @@ São diagramas que representam o estado dinâmico de um sistema, ou seja, repres
 
 Uma das vantagens desse diagrama é que ele é bem popular além da engenharia de software e dos círculos de análise de sistemas, o fluxograma é um conceito bem difundido, podendo ser usando para representar a lógica de um algoritmo até os passos de uma tarefa administrativa. Pode ser usado por programadores para representar o que ocorre dentro de um caso de uso. Portanto após um caso de uso estar pronto é possível inicial o desenho do diagrama de atividades para documetno métodos, funções ou outras operações do sistema (independente se estas forem manuais ou automatizadas).
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
@@ -379,7 +440,7 @@ Uma das vantagens desse diagrama é que ele é bem popular além da engenharia d
 
 
 
-## 4.4. Diagrama de sequência
+## 4.4. Diagrama de Sequência
 
 São diagramas que apresentam aspectos dinâmicos de um sistema orientados a eventos. Estes diagramas mostram a ordem na qual as colaborações entre as partes ocorrem. É utilizado um eixo vertical para representar uma **timeline** (linha do tempo) enquanto as mensagens são passadas entre objetos. Podem representar as interações do que foi documentado nos diagramas de casos de uso. Podem mostrar interações entre usuários e partes do sistema e partes do sistema entre si. 
 
@@ -389,7 +450,7 @@ Permite que sejam modeladas as colaborações entre instânicas de objetos (que 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/diagrama_de_sequencia1.png" alt="Modificador de acesso" style="height: 380px; width:430px;"/>
 
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 Diagrama de sequência inserido no github usando a biblioteca mermaid:
@@ -404,7 +465,7 @@ sequenceDiagram
 
 
 
-## 4.5. Diagrama de componentes
+## 4.5. Diagrama de Componentes
 
 O diagrama de componenes é um "desenho" importante no projeto de um software pois apresenta os "órgãos" (ou estruturas) internas do software. Este diagrama apresenta a forma como estão conectados os elementos do software. Um componente pode representar um agrupamento de classes ou uma classe entre sistemas ou subsistemas desde que estes tenham alguma interação entre si. São identificadores apenas componentes necessários para que o sistema funcione. 
 
@@ -440,7 +501,7 @@ Outro exemplo, mostrando um pacote e seus componentes internos (outros pacotes),
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes2.png" alt="Componentes do diagrama de componentes" style="height: 160px; width:330px;"/>
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
@@ -457,7 +518,7 @@ A representação de porta é feita por um quadrado da qual parte a ligação do
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/componentes4a.png" alt="Portas" style="height: 90px; width:330px;"/>
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
@@ -476,9 +537,9 @@ Um exemplo de um diagrama de artefatos:
 
 ![Exemplo de artefato](https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/artefato.png)
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
-## 4.6. Diagrama de pacotes
+## 4.6. Diagrama de Pacotes
 
 O diagrama de pacote é um diagrama estrutural que mostra a organização de vários outros elementos da UML, é um diagrama utilizado para agrupar outros elementos. Um pacote contém um grupo de elementos de diagramas relacionados. Estes tippos de elementos podem ser vários tipos como:
 
@@ -505,7 +566,7 @@ Neste exemplo a ligação importa permite que um pacote importe funcionalidades 
 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/pacotes4.png" alt="Pacotes" style="height: 170px; width:380px;"/>
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
@@ -516,7 +577,7 @@ Neste exemplo a ligação importa permite que um pacote importe funcionalidades 
 
 
 
-## 4.7. Diagrama de implantação
+## 4.7. Diagrama de Implantação
 
 O diagrama de implantação (ou Deployment diagram) é uma modelagem física dos componentes do sistema sobre os nós necessários para sua execução. Os nós aparecem como caixas (ou cubos) e cada artefato de software que irá funcionar dentro do nó recebe um retângulo. Um nó pode ter muitos artefatos no seu interior. Este diagrama mostra onde o sistema irá ser implantado (fisicamente), ou seja, qual é a arquitetura de execução. 
 
@@ -527,13 +588,13 @@ Os diagramas de implantação também podem representar a topologia da rede, ou 
 <img src="https://raw.githubusercontent.com/monteiro74/diagramas_resumo/main/imagens/deploy1.png" alt="Implementacao" style="height: 220px; width:450px;"/>
 
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
 
 ---
-# 5. Fundamental Modeling Concepts (FMC)
+# ⚙️ 5. Fundamental Modeling Concepts (FMC)
 
 Site sobre FMC: http://www.fmc-modeling.org/home
 
@@ -542,11 +603,11 @@ Site sobre FMC: http://www.fmc-modeling.org/home
 Observação: Não recomendo FMC no momento !
 ```
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 ---
-# 6. Criando diagramas em páginas do github:
+# ✏️ 6. Criando Diagramas no GitHub
 
 Exemplos de diagramas criado diretamente com markdown.
 
@@ -616,19 +677,27 @@ https://github.com/JakeSteam/Mermaid/blob/main/entity-relationship.md
 
 
 ---
-# 7. BPMN
+# 📊 7. BPMN - Business Process Model and Notation
+
+> **📌 Resumo Rápido**
+> - **Significado**: Business Process Model and Notation
+> - **Organização**: Object Management Group (OMG)
+> - **Uso Principal**: Modelagem de processos de negócio
+> - **Componentes**: Eventos (círculos), Atividades (retângulos), Gateways (losangos), Raias (swimlanes), Fluxos
+> - **Quando Usar**: Automação de processos, BPM, documentação de workflows empresariais
+> - **Diferença do DFD**: BPMN é mais rico em notações e focado em processos de negócio
 
 Significa Business Process Model and Notation (notação para modelagem de processo de negócios). É um padrão para modelagem de processos de negócios. Permitem que os colaboradores envolvidos possa visualizar o processo como um todo via uma representação visual/gráfica similar ao um fluxograma. É um diagrama representado por uma sequência de passos a partir de um início até um fim. Cada etapa é representada por um retângulo (com pontas arredondadas). O BPMN não faz parte da UML. Mas podem ser utilizados em conjunto para representar diferentes aspectos de um processo de negócio. Um DFD pode ser parecido com um BPMN, porém os DFD possuem 4 elementos como processo, fluxo, armazenamento e entidade externo), já  anotação BPMN permite que se usem diversos fluxo e elementos.
 
-| Símbolo    | Descrição |
-| -------- | ------- |
-| Círculo simples  | Início do processo   |
-| Retângulo com bordas arredondadas| Atividade, o que deve ser executado no processo     |
-| Círculo com bola preta | Fim do processo |
-| Losângulo | Decisão, bifurcação do processo |
-| Losângulo com cruz | bifurcação em paralelo |
-| Swimlane ou raia | São raias horizontais que representam a função ou papel que executa aquela atividade do processo |
-| linha com seta de ponta preta | Indica o fluxo de execução do processo, é o sentido que o processo anda |
+| Símbolo | Nome | Descrição | Quando Usar |
+|:-------:|:-----|:----------|:------------|
+| ⭕ Círculo vazio | Evento de Início | Início do processo | Ponto de partida do fluxo |
+| ⬭ Retângulo arredondado | Atividade/Tarefa | O que deve ser executado | Ação ou trabalho a realizar |
+| ⚫ Círculo preenchido | Evento de Fim | Término do processo | Conclusão do fluxo |
+| ◇ Losango | Gateway de Decisão | Bifurcação do processo | Escolha entre caminhos (if/else) |
+| ⬩ Losango com + | Gateway Paralelo | Bifurcação paralela | Executar múltiplas tarefas simultaneamente |
+| 🏊 Swimlane (Raia) | Raia de responsabilidade | Papel/função que executa | Organizar tarefas por departamento/responsável |
+| → Seta | Fluxo de Sequência | Ordem de execução | Direção do fluxo do processo |
 
 
 Exemplo:
@@ -638,12 +707,12 @@ Exemplo:
 
 [Página oficial da notação BPMN](https://www.omg.org/spec/BPMN/2.0/)
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
 ---
-# 8. Referências
+# 📚 8. Referências
 
 
 Fonte sobre BPMN https://www.omg.org/spec/BPMN/2.0/
@@ -653,18 +722,18 @@ Fonte sobre UML https://www.uml.org/
 Diagramas dentro de arquivos markdown https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ e https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
 
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 ---
-# 9. Como citar esta página em seus trabalhos, artigos ou outras referências:
+# 📝 9. Como Citar esta Página em seus Trabalhos, Artigos ou Outras Referências
 
-## 9.1. Citação bibliográfica:
+## 9.1. Citação Bibliográfica
 
 ```
 Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Software] https://github.com/monteiro74/diagramas_resumo. 
 ```
 
-## 9.2. Citação bibtex para Latex:
+## 9.2. Citação BibTeX para LaTeX
 
 ```
 @misc{Monteiro2023,
@@ -679,7 +748,7 @@ Monteiro, Emiliano, (2023). Breve resumo de diagramas. Github. [Computer Softwar
 ```
 
 ---
-# 10. Lista de ferramentas
+# 🛠️ 10. Lista de Ferramentas
 
 Lista de ferramentas para serem usados conforme o caso:
 
@@ -691,7 +760,7 @@ https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 
 
 ---
-# 11. Comentários finais 
+# 💬 11. Comentários Finais 
 
 
 ```
@@ -702,21 +771,21 @@ Critérios para os diagramas entrar nesta lista:
 biblioteca [Mermaid](https://mermaid.js.org/intro/), para inserir desenho nesta página github.
 ```
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 ---
-# 12. Avisos, licença, estatísticas...
+# ⚖️ 12. Avisos, Licença, Estatísticas
 
 
 ## 12.1. Avisos
 ```
 As informações aqui contidas podem ser alteradas sem aviso prévio.
-Primeira postagem em: 17/jun/2023. 
-Última atualização em: 24/agosto/2023.
+Primeira postagem em: 17/jun/2023.
+Última atualização em: 22/dezembro/2024.
 Se desejar conhecer outras ferramentas para desenvolvimento de software, consulte a página: https://github.com/monteiro74/lista_de_ferramentas#5-IDEs
 ```
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 ## 12.2. Licença
@@ -729,14 +798,14 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 ```
 
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
 
 
 
 ---
-## 12.3. Estatísticas do repositórios do Prof. Monteiro<br>
+## 12.3. Estatísticas do Repositório do Prof. Monteiro<br>
 
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/diagramas_resumo)
 
@@ -775,6 +844,6 @@ https://github.com/monteiro74/diagramas_resumo/graphs/traffic<BR>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=donut-vertical)](https://github.com/monteiro74/github-readme-stats)
 
 
-[Voltar ao sumário](#sumário)<br>
+[Voltar ao sumário](#-sumário)<br>
 
 
